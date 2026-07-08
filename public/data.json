@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-08 15:12:30",
+  "updated_at": "2026-07-08 15:52:17",
   "indices": {
     "S&P 500": {
       "price": 7503.85,
@@ -17,14 +17,14 @@
       "percent": -0.25
     },
     "KOSPI": {
-      "price": 7263.7,
-      "change": -392.61,
-      "percent": -5.13
+      "price": 7246.78,
+      "change": -409.53,
+      "percent": -5.35
     },
     "KOSDAQ": {
-      "price": 782.57,
-      "change": -48.66,
-      "percent": -5.85
+      "price": 784.97,
+      "change": -46.26,
+      "percent": -5.57
     },
     "USD/KRW": {
       "price": 1528.76,
@@ -35,67 +35,96 @@
   "news": [
     {
       "title": "환율 1500원대로 떨어져…\"하이닉스 ADR 상장 효과 선반영\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006325424&office_id=018&mode=LSS3D&type=0&section_id=101&section_id2=258&section_id3=403&date=20260708&page=1"
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006325424&office_id=018&mode=LSS3D&type=0§ion_id=101§ion_id2=258§ion_id3=403&date=20260708&page=1"
     },
     {
       "title": "이란, 바레인·쿠웨이트 美기지 85곳 공격 \"약속 어겼다\"(상보)",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005787243&office_id=277&mode=LSS3D&type=0&section_id=101&section_id2=258&section_id3=403&date=20260708&page=1"
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005787243&office_id=277&mode=LSS3D&type=0§ion_id=101§ion_id2=258§ion_id3=403&date=20260708&page=1"
     },
     {
       "title": "[속보]\"이란 혁명수비대, 중동 美기지 85곳 공격\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005787209&office_id=277&mode=LSS3D&type=0&section_id=101&section_id2=258&section_id3=403&date=20260708&page=1"
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005787209&office_id=277&mode=LSS3D&type=0§ion_id=101§ion_id2=258§ion_id3=403&date=20260708&page=1"
     },
     {
       "title": "아마존, AI 투자 위해 또 회사채 발행…250억달러 규모",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005307578&office_id=015&mode=LSS3D&type=0&section_id=101&section_id2=258&section_id3=403&date=20260708&page=1"
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005307578&office_id=015&mode=LSS3D&type=0§ion_id=101§ion_id2=258§ion_id3=403&date=20260708&page=1"
     },
     {
       "title": "美, 이란 맞대응에 브렌트유 다시 76달러대",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005787145&office_id=277&mode=LSS3D&type=0&section_id=101&section_id2=258&section_id3=403&date=20260708&page=1"
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005787145&office_id=277&mode=LSS3D&type=0§ion_id=101§ion_id2=258§ion_id3=403&date=20260708&page=1"
     },
     {
       "title": "스페이스X, 나스닥100 편입 첫날 -7% \"편입 기대 선반영\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005787131&office_id=277&mode=LSS3D&type=0&section_id=101&section_id2=258&section_id3=403&date=20260708&page=1"
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005787131&office_id=277&mode=LSS3D&type=0§ion_id=101§ion_id2=258§ion_id3=403&date=20260708&page=1"
     },
     {
       "title": "“어떻게 지금 주가가 목표가 보다 높나”…속절없이 떨어지는 ‘스페이스X’",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005704310&office_id=009&mode=LSS3D&type=0&section_id=101&section_id2=258&section_id3=403&date=20260708&page=1"
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005704310&office_id=009&mode=LSS3D&type=0§ion_id=101§ion_id2=258§ion_id3=403&date=20260708&page=1"
     },
     {
       "title": "[마켓무버]AI 반도체 급락·중동 리스크 재부각…뉴욕증시 일제히 하락",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006325084&office_id=018&mode=LSS3D&type=0&section_id=101&section_id2=258&section_id3=403&date=20260708&page=1"
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006325084&office_id=018&mode=LSS3D&type=0§ion_id=101§ion_id2=258§ion_id3=403&date=20260708&page=1"
     },
     {
       "title": "중동 리스크와 반도체주 급락에 1520원선 회복 시도 [외환브리핑]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006325020&office_id=018&mode=LSS3D&type=0&section_id=101&section_id2=258&section_id3=403&date=20260708&page=1"
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006325020&office_id=018&mode=LSS3D&type=0§ion_id=101§ion_id2=258§ion_id3=403&date=20260708&page=1"
     },
     {
       "title": "\"SK하이닉스, ADR 초과 청약\"…나스닥은 1%↓[뉴스새벽배송]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006325012&office_id=018&mode=LSS3D&type=0&section_id=101&section_id2=258&section_id3=403&date=20260708&page=1"
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006325012&office_id=018&mode=LSS3D&type=0§ion_id=101§ion_id2=258§ion_id3=403&date=20260708&page=1"
     }
   ],
-  "summary": "📢 **굿모닝 투자자님!**\n\n전일 뉴욕 증시는 AI 반도체 급락과 중동 지정학적 리스크 재부각으로 일제히 하락 마감했습니다. 국내 증시 또한 이러한 글로벌 악재의 영향으로 큰 폭의 하락 출발이 예상됩니다. 어려운 시장이지만 침착한 대응이 필요한 하루입니다.\n\n📈 **주요 증시 현황**\n- S&P 500: 7503.85 (-33.58 / -0.45%) 🔴\n- Nasdaq: 25818.69 (-302.47 / -1.16%) 🔴\n- Dow Jones: 52925.15 (-130.76 / -0.25%) 🔴\n- KOSPI: 7263.7 (-392.61 / -5.13%) 🔴\n- KOSDAQ: 782.57 (-48.66 / -5.85%) 🔴\n- USD/KRW: 1528.76 (0.0 / 0.0%) ⚪\n\n📰 **주요 이슈 요약**\n1.  **중동 리스크 재부각**: 이란의 바레인·쿠웨이트 美 기지 공격 소식이 전해지며 중동발 지정학적 긴장이 고조되고 있습니다. 이는 국제 유가 상승 압력으로 작용하며 투자 심리를 위축시켰습니다.\n2.  **AI 반도체 및 기술주 급락**: 나스닥 100 편입 첫날 스페이스X 주가가 -7% 급락했으며, AI 반도체 관련주들도 동반 하락하며 뉴욕 증시 하락을 주도했습니다. 아마존의 250억달러 회사채 발행 소식에도 불구하고 기술주 전반의 매도세가 강했습니다.\n3.  **환율 변동성 확대**: SK하이닉스 ADR 상장 효과로 1500원대 하락 기대감이 있었으나, 중동 리스크 재부각과 글로벌 증시 약세로 인해 원/달러 환율은 1520원선 회복을 시도하며 변동성이 커지고 있습니다.\n\n💡 **국내 시장 영향성**\n글로벌 기술주 급락과 중동 지정학적 리스크는 오늘 한국 증시에 강력한 하락 압력으로 작용할 것으로 보입니다. 특히, 반도체 대형주를 중심으로 외국인 매도세가 출회될 가능성이 높으며, 원/달러 환율 상승 움직임은 추가적인 외국인 이탈을 부추길 수 있습니다. 당분간은 보수적인 관점으로 시장을 지켜보는 것이 중요합니다.\n\n힘든 시장이지만, 현명한 대응으로 성공적인 투자 하루 되세요! 😊",
-  "recommendations": [
+  "youtube": [
     {
-      "name": "삼성전자",
-      "ticker": "005930",
-      "sector": "반도체",
-      "reason": "미국 AI 반도체 관련주들의 급락과 전반적인 기술주 투자 심리 위축은 국내 대표 반도체 대형주인 삼성전자에 하락 압력으로 작용할 것입니다. 글로벌 기술 섹터의 약세는 국내 시장에도 직접적인 영향을 미칩니다.",
-      "action_plan": "글로벌 기술주의 약세가 이어질 가능성이 높으므로, 오늘은 관망하며 추가 하락 여부를 지켜보는 것이 좋습니다. 신중한 접근이 필요한 시기입니다."
+      "id": "ytn",
+      "name": "YTN 실시간 경제 뉴스",
+      "desc": "24시간 생방송 경제/시황 속보 라이브 방송",
+      "logo": "📰",
+      "embedUrl": "https://www.youtube.com/embed/gvJLFdEDNgo?autoplay=1&mute=1",
+      "originUrl": "https://www.youtube.com/watch?v=gvJLFdEDNgo"
     },
     {
-      "name": "SK하이닉스",
-      "ticker": "000660",
-      "sector": "반도체",
-      "reason": "SK하이닉스의 ADR 초과 청약 소식은 긍정적이지만, 글로벌 AI 반도체 관련주 하락 및 나스닥 기술주 전반의 급락 분위기가 ADR 상장 기대감을 희석시키고 주가에 부담을 줄 것으로 예상됩니다.",
-      "action_plan": "ADR 상장 기대감이 이미 선반영된 측면이 있고, 글로벌 반도체 섹터 약세로 인해 변동성이 클 것으로 보입니다. 시장 흐름을 확인하며 단기적인 급등보다는 보수적인 관점으로 대응하는 것이 좋습니다."
+      "id": "sampro",
+      "name": "삼프로TV",
+      "desc": "실시간 국내외 금융 시황 & 라이브 경제 뉴스",
+      "logo": "🎙️",
+      "embedUrl": "https://www.youtube.com/embed/JtsvdIxLfgo?autoplay=1&mute=1",
+      "originUrl": "https://www.youtube.com/watch?v=JtsvdIxLfgo"
     },
     {
-      "name": "S-Oil",
-      "ticker": "010950",
-      "sector": "정유",
-      "reason": "이란의 중동 미군 기지 공격 소식으로 국제 유가가 다시 76달러대까지 상승 압력을 받고 있습니다. 중동 지정학적 리스크 재부각은 단기적으로 유가 상승 수혜를 볼 수 있는 정유 관련주에 긍정적인 영향을 미칠 수 있습니다.",
-      "action_plan": "유가 상승이 단기적인 지정학적 리스크에 기반하므로, 급등 시 추격 매수는 자제하고, 변동성을 활용한 단기 트레이딩 관점으로 접근하는 것이 유리합니다. 국제 정세 변화를 면밀히 주시해야 합니다."
+      "id": "syuka",
+      "name": "슈카월드",
+      "desc": "경제 시사 이슈를 쉽고 재밌게 요약 분석",
+      "logo": "🦁",
+      "embedUrl": "https://www.youtube.com/embed/gjWkGtjDRDI?autoplay=1&mute=1",
+      "originUrl": "https://www.youtube.com/watch?v=gjWkGtjDRDI"
+    },
+    {
+      "id": "hong",
+      "name": "홍춘욱의 쉬운 경제",
+      "desc": "이코노미스트의 시장 분석 및 투자 경제학",
+      "logo": "📈",
+      "embedUrl": "https://www.youtube.com/embed/EltyZW7F7Mc?autoplay=1&mute=1",
+      "originUrl": "https://www.youtube.com/watch?v=EltyZW7F7Mc"
     }
-  ]
+  ],
+  "summary": {
+    "summary": "📢 **오늘 아침 브리핑 (12월 1일)**\n\n지난밤 글로벌 증시는 중동 지정학적 리스크와 AI 기술주 약세로 일제히 하락했습니다. 국내 증시 또한 큰 폭의 하락세를 보인 가운데, 오늘은 변동성 장세가 예상됩니다.\n\n📈 **주요 증시 현황**\n*   S&P 500: 7,503.85 (-33.58 / -0.45%) 🔵\n*   Nasdaq: 25,818.69 (-302.47 / -1.16%) 🔵\n*   Dow Jones: 52,925.15 (-130.76 / -0.25%) 🔵\n*   KOSPI: 7,246.78 (-409.53 / -5.35%) 🔵\n*   KOSDAQ: 784.97 (-46.26 / -5.57%) 🔵\n*   USD/KRW: 1,528.76 (0.0 / 0.0%) ⚪\n\n📰 **주요 이슈 요약**\n1.  **중동 지정학적 리스크 재부각**: 이란의 미국 기지 공격 소식으로 국제 유가가 다시 76달러대로 상승하며 투자 심리를 위축시켰습니다. 💥\n2.  **AI/기술주 급락**: 미국 뉴욕 증시에서는 AI 반도체를 포함한 기술주들이 큰 폭으로 하락하며 나스닥 지수 하락을 주도했습니다. 스페이스X의 나스닥100 편입 첫날 급락도 눈에 띄었습니다. 📉\n3.  **환율 변동성 및 하이닉스 ADR 효과**: 환율은 한때 1500원대로 떨어졌다가 1520원선 회복을 시도하는 등 변동성을 보였습니다. 다만, SK하이닉스 ADR 초과 청약 소식은 긍정적인 개별 요인으로 작용했습니다. 💵\n\n💡 **국내 시장 영향성**\n어제 국내 증시는 이미 큰 폭의 하락세를 보였습니다. 오늘은 중동 리스크에 따른 국제 유가 상승 압력과 미국 기술주 약세가 국내 증시에 추가적인 부담으로 작용할 수 있습니다. 특히 반도체 섹터의 움직임과 외국인 투자자 동향을 주의 깊게 살펴보세요. 환율 변동성 또한 지속될 수 있으니 예의주시하시는 것이 좋습니다.\n\n좋은 하루 되세요! 😊",
+    "recommendations": [
+      {
+        "name": "SK하이닉스",
+        "ticker": "000660",
+        "sector": "반도체",
+        "reason": "글로벌 AI 반도체 투자 심리 위축 속에서도 SK하이닉스의 미국예탁증권(ADR) 초과 청약 성공 소식은 기업에 대한 강한 신뢰를 반영하며 긍정적인 수급 요인으로 작용할 수 있습니다.",
+        "action_plan": "전반적인 시장 하락 압력 속에서 개별 호재가 주가에 어떻게 반영되는지 관찰하며, 장 초반 과도한 변동성을 주의하고 지지선 부근에서 분할 매수를 고려할 수 있습니다."
+      },
+      {
+        "name": "SK이노베이션",
+        "ticker": "096770",
+        "sector": "정유",
+        "reason": "중동 지정학적 리스크 심화로 국제 유가가 상승세를 보이고 있으며, 이는 정유 업체의 재고 평가 이익 개선 및 실적 기대감으로 이어질 수 있습니다.",
+        "action_plan": "유가 상승 수혜주로 부각될 수 있으나, 단기적인 지정학적 리스크 완화 시 변동성이 커질 수 있습니다. 유가 추이와 국제 정세 변화를 면밀히 주시하며 신중한 접근이 필요합니다."
+      }
+    ]
+  }
 }

@@ -15,47 +15,11 @@ import {
   Play
 } from 'lucide-react';
 
-const YOUTUBE_CHANNELS = [
-  {
-    id: 'ytn',
-    name: 'YTN 실시간 경제 뉴스',
-    desc: '24시간 생방송 경제/시황 속보 라이브 방송',
-    logo: '📰',
-    // 100% 임베드 재생이 허용된 YTN 공식 라이브 주소 매핑
-    embedUrl: 'https://www.youtube.com/embed/goTpDq2GKy4?autoplay=1&mute=1',
-    originUrl: 'https://www.youtube.com/watch?v=goTpDq2GKy4'
-  },
-  {
-    id: 'sampro',
-    name: '삼프로TV',
-    desc: '실시간 국내외 금융 시황 & 라이브 경제 뉴스',
-    logo: '🎙️',
-    embedUrl: 'https://www.youtube.com/embed/live_stream?channel=UC8GD-S95Qc5-m_AEXW4WvAg',
-    originUrl: 'https://www.youtube.com/@samprotv/live'
-  },
-  {
-    id: 'syuka',
-    name: '슈카월드',
-    desc: '경제 시사 이슈를 쉽고 재밌게 요약 분석',
-    logo: '🦁',
-    embedUrl: 'https://www.youtube.com/embed/videoseries?list=PL_JbQp6wQc_t7wVj8jD87D9aI_B4H0vU9',
-    originUrl: 'https://www.youtube.com/@syukaworld'
-  },
-  {
-    id: 'hong',
-    name: '홍춘욱의 쉬운 경제',
-    desc: '이코노미스트의 시장 분석 및 투자 경제학',
-    logo: '📈',
-    embedUrl: 'https://www.youtube.com/embed/videoseries?list=PL9XzO49l7bM1pD38vHkM3kHhN5O3nJ62o',
-    originUrl: 'https://www.youtube.com/@DrHong-economy'
-  }
-];
-
 function App() {
   const [data, setData] = useState(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
-  const [activeChannel, setActiveChannel] = useState(YOUTUBE_CHANNELS[0]);
+  const [activeChannel, setActiveChannel] = useState(null);
 
   const fetchData = async () => {
     setLoading(true);
@@ -67,6 +31,11 @@ function App() {
       }
       const jsonData = await response.json();
       setData(jsonData);
+      
+      // 수집된 최신 유튜브 데이터 중 첫 번째 채널을 기본으로 활성화
+      if (jsonData.youtube && jsonData.youtube.length > 0) {
+        setActiveChannel(jsonData.youtube[0]);
+      }
     } catch (err) {
       setError(err.message);
     } finally {
@@ -133,6 +102,8 @@ function App() {
     );
   }
 
+  const youtubeChannels = data?.youtube || [];
+
   return (
     <div className="max-w-7xl mx-auto px-4 py-8 md:py-12">
       {/* Header Area */}
@@ -160,85 +131,85 @@ function App() {
       </header>
 
       {/* 1. YouTube Financial Media Station */}
-      <section className="mb-10">
-        <h2 className="text-lg font-bold text-gray-300 mb-4 flex items-center gap-2">
-          <svg className="text-red-500 w-5 h-5 fill-current" viewBox="0 0 24 24">
-            <path d="M23.498 6.163c-.272-1.016-1.07-1.817-2.084-2.09C19.57 3.792 12 3.792 12 3.792s-7.57 0-9.414.482c-1.013.273-1.812 1.074-2.084 2.09C0 8.002 0 12 0 12s0 3.998.502 5.837c.272 1.016 1.07 1.817 2.084 2.09C4.43 20.208 12 20.208 12 20.208s7.57 0 9.414-.482c1.013-.273 1.812-1.074 2.084-2.09C24 15.998 24 12 24 12s0-3.998-.502-5.837zM9.545 15.568V8.432L15.818 12l-6.273 3.568z" />
-          </svg>
-          실시간 추천 금융 방송
-        </h2>
-        <div className="glass-card p-4 md:p-6 grid grid-cols-1 lg:grid-cols-3 gap-6 border-indigo-500/10 shadow-indigo-950/20">
-          
-          {/* YouTube Video Screen */}
-          <div className="lg:col-span-2">
-            <div className="video-responsive rounded-xl overflow-hidden border border-white/5 bg-black/40 relative">
-              <iframe
-                title={activeChannel.name}
-                src={activeChannel.embedUrl}
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                allowFullScreen
-                className="absolute top-0 left-0 w-full h-full border-0"
-              ></iframe>
-              
-              {/* 유튜브에서 직접 열기 오버레이 버튼 (모바일 앱 연동 극대화) */}
-              <a
-                href={activeChannel.originUrl}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="absolute bottom-3 right-3 px-3.5 py-2 bg-red-600 hover:bg-red-500 transition-colors text-white font-bold rounded-xl text-xs flex items-center gap-1.5 shadow-lg shadow-black/60 z-10"
-              >
-                <svg className="w-3.5 h-3.5 fill-current" viewBox="0 0 24 24">
-                  <path d="M23.498 6.163c-.272-1.016-1.07-1.817-2.084-2.09C19.57 3.792 12 3.792 12 3.792s-7.57 0-9.414.482c-1.013.273-1.812 1.074-2.084 2.09C0 8.002 0 12 0 12s0 3.998.502 5.837c.272 1.016 1.07 1.817 2.084 2.09C4.43 20.208 12 20.208 12 20.208s7.57 0 9.414-.482c1.013-.273 1.812-1.074 2.084-2.09C24 15.998 24 12 24 12s0-3.998-.502-5.837zM9.545 15.568V8.432L15.818 12l-6.273 3.568z" />
-                </svg>
-                유튜브 앱에서 직접 보기
-              </a>
-            </div>
-          </div>
-
-          {/* Channel Selection Tab Panel */}
-          <div className="flex flex-col justify-between">
-            <div>
-              <p className="text-xs font-bold text-indigo-400 tracking-wider uppercase mb-3">
-                채널 선택하기
-              </p>
-              
-              <div className="flex lg:flex-col gap-3 overflow-x-auto lg:overflow-x-visible pb-3 lg:pb-0 scrollbar-thin">
-                {YOUTUBE_CHANNELS.map((ch) => {
-                  const isActive = activeChannel.id === ch.id;
-                  return (
-                    <button
-                      key={ch.id}
-                      onClick={() => setActiveChannel(ch)}
-                      className={`flex items-center gap-3 p-3 text-left rounded-xl transition-all border whitespace-nowrap lg:whitespace-normal flex-shrink-0 lg:flex-shrink ${
-                        isActive 
-                          ? 'bg-indigo-500/10 border-indigo-500/40 text-white shadow-md shadow-indigo-500/5' 
-                          : 'bg-white/2 border-white/5 hover:bg-white/5 text-gray-400 hover:text-gray-200'
-                      }`}
-                    >
-                      <span className="text-xl flex-shrink-0">{ch.logo}</span>
-                      <div className="overflow-hidden">
-                        <span className="font-bold text-sm block tracking-tight">{ch.name}</span>
-                        <span className="text-[11px] text-gray-400 hidden md:block lg:line-clamp-1">
-                          {ch.desc}
-                        </span>
-                      </div>
-                    </button>
-                  );
-                })}
+      {youtubeChannels.length > 0 && activeChannel && (
+        <section className="mb-10">
+          <h2 className="text-lg font-bold text-gray-300 mb-4 flex items-center gap-2">
+            <svg className="text-red-500 w-5 h-5 fill-current" viewBox="0 0 24 24">
+              <path d="M23.498 6.163c-.272-1.016-1.07-1.817-2.084-2.09C19.57 3.792 12 3.792 12 3.792s-7.57 0-9.414.482c-1.013.273-1.812 1.074-2.084 2.09C0 8.002 0 12 0 12s0 3.998.502 5.837c.272 1.016 1.07 1.817 2.084 2.09C4.43 20.208 12 20.208 12 20.208s7.57 0 9.414-.482c1.013-.273 1.812-1.074 2.084-2.09C24 15.998 24 12 24 12s0-3.998-.502-5.837zM9.545 15.568V8.432L15.818 12l-6.273 3.568z" />
+            </svg>
+            실시간 추천 금융 방송 (채널별 최신 영상)
+          </h2>
+          <div className="glass-card p-4 md:p-6 grid grid-cols-1 lg:grid-cols-3 gap-6 border-indigo-500/10 shadow-indigo-950/20">
+            
+            {/* YouTube Video Screen */}
+            <div className="lg:col-span-2">
+              <div className="video-responsive rounded-xl overflow-hidden border border-white/5 bg-black/40 relative">
+                <iframe
+                  title={activeChannel.name}
+                  src={activeChannel.embedUrl}
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                  allowFullScreen
+                  className="absolute top-0 left-0 w-full h-full border-0"
+                ></iframe>
+                
+                <a
+                  href={activeChannel.originUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="absolute bottom-3 right-3 px-3.5 py-2 bg-red-600 hover:bg-red-500 transition-colors text-white font-bold rounded-xl text-xs flex items-center gap-1.5 shadow-lg shadow-black/60 z-10"
+                >
+                  <svg className="w-3.5 h-3.5 fill-current" viewBox="0 0 24 24">
+                    <path d="M23.498 6.163c-.272-1.016-1.07-1.817-2.084-2.09C19.57 3.792 12 3.792 12 3.792s-7.57 0-9.414.482c-1.013.273-1.812 1.074-2.084 2.09C0 8.002 0 12 0 12s0 3.998.502 5.837c.272 1.016 1.07 1.817 2.084 2.09C4.43 20.208 12 20.208 12 20.208s7.57 0 9.414-.482c1.013-.273 1.812-1.074 2.084-2.09C24 15.998 24 12 24 12s0-3.998-.502-5.837zM9.545 15.568V8.432L15.818 12l-6.273 3.568z" />
+                  </svg>
+                  유튜브 앱에서 직접 보기
+                </a>
               </div>
             </div>
-            
-            {/* Info Message Box */}
-            <div className="mt-4 lg:mt-0 p-3 bg-white/2 border border-white/5 rounded-xl text-xs text-gray-500 flex items-start gap-2">
-              <Play className="w-3.5 h-3.5 text-indigo-400 mt-0.5 flex-shrink-0" />
-              <p className="leading-relaxed">
-                일부 방송국 외의 개인 유튜브 채널(삼프로, 슈카 등)은 유튜브의 외부 도메인 차단 정책에 따라 플레이어 내 직접 시청이 제한될 수 있습니다. 이 경우 화면 우측 하단의 <b>[유튜브 앱에서 직접 보기]</b> 버튼을 탭하시면 모바일 공식 유튜브 앱으로 바로 전환되어 끊김 없이 시청 가능합니다.
-              </p>
-            </div>
-          </div>
 
-        </div>
-      </section>
+            {/* Channel Selection Tab Panel */}
+            <div className="flex flex-col justify-between">
+              <div>
+                <p className="text-xs font-bold text-indigo-400 tracking-wider uppercase mb-3">
+                  채널 선택하기
+                </p>
+                
+                <div className="flex lg:flex-col gap-3 overflow-x-auto lg:overflow-x-visible pb-3 lg:pb-0 scrollbar-thin">
+                  {youtubeChannels.map((ch) => {
+                    const isActive = activeChannel.id === ch.id;
+                    return (
+                      <button
+                        key={ch.id}
+                        onClick={() => setActiveChannel(ch)}
+                        className={`flex items-center gap-3 p-3 text-left rounded-xl transition-all border whitespace-nowrap lg:whitespace-normal flex-shrink-0 lg:flex-shrink ${
+                          isActive 
+                            ? 'bg-indigo-500/10 border-indigo-500/40 text-white shadow-md shadow-indigo-500/5' 
+                            : 'bg-white/2 border-white/5 hover:bg-white/5 text-gray-400 hover:text-gray-200'
+                        }`}
+                      >
+                        <span className="text-xl flex-shrink-0">{ch.logo}</span>
+                        <div className="overflow-hidden">
+                          <span className="font-bold text-sm block tracking-tight">{ch.name}</span>
+                          <span className="text-[11px] text-gray-400 hidden md:block lg:line-clamp-1">
+                            {ch.desc}
+                          </span>
+                        </div>
+                      </button>
+                    );
+                  })}
+                </div>
+              </div>
+              
+              <div className="mt-4 lg:mt-0 p-3 bg-white/2 border border-white/5 rounded-xl text-xs text-gray-500 flex items-start gap-2">
+                <Play className="w-3.5 h-3.5 text-indigo-400 mt-0.5 flex-shrink-0" />
+                <p className="leading-relaxed">
+                  각 채널별 가장 최근에 실제 업로드된 동영상이 임베드되어 정상 재생됩니다. 외부 임베드가 일부 제한된 비디오일 경우에도 우측 하단 <b>[유튜브 앱에서 직접 보기]</b> 버튼을 통해 모바일 유튜브 앱으로 즉시 시청 가능합니다.
+                </p>
+              </div>
+            </div>
+
+          </div>
+        </section>
+      )}
 
       {/* 2. Market Indices Grid */}
       <section className="mb-10">

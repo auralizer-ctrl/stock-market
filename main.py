@@ -28,29 +28,30 @@ def main():
     indices = collector.get_market_indices()
     news = collector.get_global_news()
     
+    print("유튜브 최신 동영상 피드 수집 중...")
+    youtube_videos = collector.get_latest_youtube_videos()
+    
     if not indices and not news:
         print("[오류] 수집된 데이터가 없습니다. 중단합니다.")
         sys.exit(1)
         
     # 3. Gemini 요약 생성
     print("[2/3] Gemini AI 요약 생성 중...")
-    result = summarizer.generate_summary(indices, news)
+    briefing = summarizer.generate_summary(indices, news)
     
     # 4. JSON 파일 저장 (React public 폴더 타겟)
     print("[3/3] 웹앱용 JSON 데이터 저장 중...")
     
-    # 현재 시간 (한국 시간 기준 포맷팅)
     now = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     
     output_data = {
         "updated_at": now,
         "indices": indices,
         "news": news,
-        "summary": result.get("summary", ""),
-        "recommendations": result.get("recommendations", [])
+        "youtube": youtube_videos,
+        "summary": briefing
     }
     
-    # 저장 경로 설정 (React의 public 디렉토리)
     public_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), "public")
     if not os.path.exists(public_dir):
         os.makedirs(public_dir)
