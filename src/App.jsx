@@ -19,6 +19,17 @@ function App() {
   const [error, setError] = useState(null);
   const [activeChannel, setActiveChannel] = useState(null);
 
+  const getFormattedDateTitle = () => {
+    if (!data?.updated_at) return "오늘의 증시 브리핑";
+    try {
+      const datePart = data.updated_at.split(' ')[0]; // "2026-07-08"
+      const [_, month, day] = datePart.split('-');
+      return `${parseInt(month)}월 ${parseInt(day)}일 오늘의 증시 브리핑`;
+    } catch (e) {
+      return "오늘의 증시 브리핑";
+    }
+  };
+
   const fetchData = async () => {
     setLoading(true);
     setError(null);
@@ -108,7 +119,7 @@ function App() {
       <header className="flex flex-col md:flex-row md:items-center md:justify-between gap-4 mb-8 pb-6 border-b border-white/5">
         <div>
           <h1 className="text-3xl md:text-4xl font-extrabold tracking-tight bg-gradient-to-r from-white via-indigo-200 to-indigo-400 bg-clip-text text-transparent flex items-center gap-2">
-            <LineChart className="text-indigo-400 w-8 h-8 md:w-10 md:h-10" /> Global Market Hub
+            <LineChart className="text-indigo-400 w-8 h-8 md:w-10 md:h-10" /> {getFormattedDateTitle()}
           </h1>
           <p className="text-gray-400 mt-2 text-sm md:text-base">
             미국 증시와 연동한 오늘의 국내 주식 시장 핵심 인사이트 대시보드
@@ -195,13 +206,6 @@ function App() {
                     );
                   })}
                 </div>
-              </div>
-              
-              <div className="mt-4 lg:mt-0 p-3 bg-white/2 border border-white/5 rounded-xl text-xs text-gray-500 flex items-start gap-2">
-                <Play className="w-3.5 h-3.5 text-indigo-400 mt-0.5 flex-shrink-0" />
-                <p className="leading-relaxed">
-                  각 채널별 가장 최근에 실제 업로드된 동영상이 임베드되어 정상 재생됩니다. 외부 임베드가 일부 제한된 비디오일 경우에도 우측 하단 <b>[유튜브 앱에서 직접 보기]</b> 버튼을 통해 모바일 유튜브 앱으로 즉시 시청 가능합니다.
-                </p>
               </div>
             </div>
 
