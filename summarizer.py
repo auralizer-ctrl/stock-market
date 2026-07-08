@@ -67,6 +67,8 @@ def generate_summary(indices, news):
   - `sector`: 업종/섹터 (예: "반도체")
   - `reason`: 추천 사유 (글로벌 증시 및 지수, 뉴스와 어떻게 연계되는지 구체적으로 기술)
   - `action_plan`: 오늘 하루의 구체적인 투자 대응 전략 및 체크포인트 (예: "시초가 급등 시 추격 매수 자제, 분할 매수 대응")
+  - `related_stocks`: 해당 추천 종목과 밀접한 연관이 있거나 같은 섹터/테마에 속해 함께 움직일 가능성이 높은 국내 관련 종목 리스트 (최대 2~3개 추천, 각각 `name`(종목명)과 `ticker`(6자리 종목코드)를 포함해야 함. 예: 삼성전자 추천 시 `[ {{"name": "SK하이닉스", "ticker": "000660"}}, {{"name": "한미반도체", "ticker": "042700"}} ]`)
+
 
 ---
 
@@ -81,7 +83,13 @@ def generate_summary(indices, news):
       "ticker": "종목코드(6자리)",
       "sector": "업종",
       "reason": "추천 사유",
-      "action_plan": "대응 전략"
+      "action_plan": "대응 전략",
+      "related_stocks": [
+        {{
+          "name": "관련종목명",
+          "ticker": "관련종목코드(6자리)"
+        }}
+      ]
     }}
   ]
 }}

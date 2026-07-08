@@ -79,13 +79,6 @@ def get_latest_youtube_videos():
     """
     channels = [
         {
-            "id": "ytn",
-            "name": "YTN 실시간 경제 뉴스",
-            "desc": "24시간 생방송 경제/시황 속보 라이브 방송",
-            "logo": "📰",
-            "handle": "@ytnnews"
-        },
-        {
             "id": "sampro",
             "name": "삼프로TV",
             "desc": "실시간 국내외 금융 시황 & 라이브 경제 뉴스",
@@ -98,6 +91,13 @@ def get_latest_youtube_videos():
             "desc": "경제 시사 이슈를 쉽고 재밌게 요약 분석",
             "logo": "🦁",
             "handle": "@syukaworld"
+        },
+        {
+            "id": "ytn",
+            "name": "YTN 실시간 경제 뉴스",
+            "desc": "24시간 생방송 경제/시황 속보 라이브 방송",
+            "logo": "📰",
+            "handle": "@ytnnews"
         },
         {
             "id": "hong",

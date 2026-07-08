@@ -244,6 +244,65 @@ function App() {
         </div>
       </section>
 
+      {/* 2.5 AI Pick Recommendations Section */}
+      {data?.recommendations && data.recommendations.length > 0 && (
+        <section className="mb-10">
+          <h2 className="text-lg font-bold text-gray-300 mb-4 flex items-center gap-2">
+            <Sparkles className="text-indigo-400 w-5 h-5 animate-pulse-slow" /> 💡 오늘의 AI Pick 국내 추천 종목
+          </h2>
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            {data.recommendations.map((rec, index) => (
+              <div 
+                key={index} 
+                className="glass-card p-6 flex flex-col justify-between border-indigo-500/20 glow-indigo"
+              >
+                <div>
+                  <div className="flex items-center justify-between mb-4">
+                    <span className="px-3 py-1 text-xs font-semibold text-white rounded-full recommendation-badge">
+                      {rec.sector}
+                    </span>
+                    <span className="text-xs font-mono text-gray-500">
+                      {rec.ticker}
+                    </span>
+                  </div>
+                  <h3 className="text-xl font-extrabold text-white mb-3">
+                    {rec.name}
+                  </h3>
+                  <div className="space-y-3">
+                    <div>
+                      <span className="text-xs font-bold text-indigo-400 block mb-1">💡 추천 사유</span>
+                      <p className="text-sm text-gray-300 leading-relaxed">{rec.reason}</p>
+                    </div>
+                    <div>
+                      <span className="text-xs font-bold text-emerald-400 block mb-1">🎯 대응 전략</span>
+                      <p className="text-sm text-gray-300 leading-relaxed">{rec.action_plan}</p>
+                    </div>
+                    
+                    {rec.related_stocks && rec.related_stocks.length > 0 && (
+                      <div className="mt-4 pt-3 border-t border-white/5">
+                        <span className="text-xs font-bold text-gray-400 block mb-2">🔗 관련 종목</span>
+                        <div className="flex flex-wrap gap-2">
+                          {rec.related_stocks.map((rel, idx) => (
+                            <div 
+                              key={idx} 
+                              className="px-2.5 py-1 text-xs font-medium text-indigo-200 bg-indigo-500/10 border border-indigo-500/20 rounded-lg flex items-center gap-1.5"
+                            >
+                              <span className="font-semibold">{rel.name}</span>
+                              <span className="text-[10px] font-mono opacity-50">{rel.ticker}</span>
+                            </div>
+                          ))}
+                        </div>
+                      </div>
+                    )}
+
+                  </div>
+                </div>
+              </div>
+            ))}
+          </div>
+        </section>
+      )}
+
       {/* 3. Main content split layout (Briefing & News) */}
       <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
         
