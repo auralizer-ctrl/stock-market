@@ -37,7 +37,7 @@ def main():
         
     # 3. Gemini 요약 생성
     print("[2/3] Gemini AI 요약 생성 중...")
-    briefing = summarizer.generate_summary(indices, news)
+    result = summarizer.generate_summary(indices, news)
     
     # 4. JSON 파일 저장 (React public 폴더 타겟)
     print("[3/3] 웹앱용 JSON 데이터 저장 중...")
@@ -49,7 +49,8 @@ def main():
         "indices": indices,
         "news": news,
         "youtube": youtube_videos,
-        "summary": briefing
+        "summary": result.get("summary", ""),
+        "recommendations": result.get("recommendations", [])
     }
     
     public_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), "public")

@@ -1,6 +1,4 @@
 import React, { useState, useEffect } from 'react';
-import ReactMarkdown from 'react-markdown';
-import remarkGfm from 'remark-gfm';
 import { 
   TrendingUp, 
   TrendingDown, 
@@ -312,10 +310,8 @@ function App() {
             <h2 className="text-xl font-bold text-white mb-6 flex items-center gap-2 border-b border-white/5 pb-4">
               <Sparkles className="text-indigo-400 w-5 h-5 animate-pulse-slow" /> Gemini AI 시황 종합 브리핑
             </h2>
-            <div className="markdown-body text-gray-300">
-              <ReactMarkdown remarkPlugins={[remarkGfm]}>
-                {data?.summary || '요약 리포트를 찾을 수 없습니다.'}
-              </ReactMarkdown>
+            <div className="text-gray-300 leading-relaxed text-base whitespace-pre-wrap break-all">
+              {data?.summary || '요약 리포트를 찾을 수 없습니다. 잠시 후 새로고침 버튼을 눌러주세요.'}
             </div>
           </section>
         </div>
