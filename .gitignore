@@ -29,3 +29,9 @@ __pycache__/
 *.pyc
 .env
 run_log.txt
+
+# 민감 정보 파일 (API 키, 프로젝트 ID 등)
+프로젝트ID.txt
+*프로젝트ID*
+*API키*
+*secret*

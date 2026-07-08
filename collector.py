@@ -47,7 +47,9 @@ def get_market_indices():
 def get_global_news():
     """
     네이버 금융 해외증시 뉴스 섹션에서 헤드라인을 크롤링합니다.
+    링크는 n.news.naver.com 직접 링크로 재구성하여 인코딩 깨짐 문제를 방지합니다.
     """
+    import re
     url = "https://finance.naver.com/news/news_list.naver?mode=LSS3D&section_id=101&section_id2=258&section_id3=403"
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
@@ -66,12 +68,19 @@ def get_global_news():
             if idx >= 10:
                 break
             title = sub.get_text(strip=True)
-            link = "https://finance.naver.com" + sub['href']
-            news_list.append({"title": title, "link": link})
+            href = sub.get('href', '')
+            
+            # article_id, office_id로 직접 링크 재구성 (HTML 인코딩 깨짐 방지)
+            aid = re.search(r'article_id=(\d+)', href)
+            oid = re.search(r'office_id=(\d+)', href)
+            if aid and oid and title:
+                link = f"https://n.news.naver.com/mnews/article/{oid.group(1)}/{aid.group(1)}"
+                news_list.append({"title": title, "link": link})
     except Exception as e:
         print(f"Error crawling news: {e}")
         
     return news_list
+
 
 def get_latest_youtube_videos():
     """
