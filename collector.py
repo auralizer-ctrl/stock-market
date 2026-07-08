@@ -70,6 +70,8 @@ def get_global_news():
             title = sub.get_text(strip=True)
             # URL에 특수문자가 섞여서 깨지는 현상 방지
             link = "https://finance.naver.com" + sub['href']
+            # HTML 엔티티 파싱 오류로 &section이 §로 변환되는 현상 방지
+            link = link.replace('§', '&sect')
             news_list.append({"title": title, "link": link})
     except Exception as e:
         print(f"Error crawling news: {e}")
