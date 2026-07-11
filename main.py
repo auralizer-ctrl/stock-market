@@ -42,7 +42,10 @@ def main():
     # 4. JSON 파일 저장 (React public 폴더 타겟)
     print("[3/3] 웹앱용 JSON 데이터 저장 중...")
     
-    now = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    # 한국 표준시(KST = UTC+9) 기준 현재 시각 (GitHub Actions 서버는 UTC 사용)
+    now_utc = datetime.datetime.now(datetime.timezone.utc)
+    now_kst = now_utc + datetime.timedelta(hours=9)
+    now = now_kst.strftime("%Y-%m-%d %H:%M:%S")
     
     output_data = {
         "updated_at": now,
