@@ -1,77 +1,77 @@
 {
-  "updated_at": "2026-07-15 15:35:59",
+  "updated_at": "2026-07-16 16:31:32",
   "indices": {
     "S&P 500": {
-      "price": NaN,
-      "change": NaN,
-      "percent": NaN
+      "price": 7572.4,
+      "change": 28.81,
+      "percent": 0.38
     },
     "Nasdaq": {
-      "price": NaN,
-      "change": NaN,
-      "percent": NaN
+      "price": 26269.23,
+      "change": 162.22,
+      "percent": 0.62
     },
     "Dow Jones": {
-      "price": NaN,
-      "change": NaN,
-      "percent": NaN
+      "price": 52658.64,
+      "change": 150.37,
+      "percent": 0.29
     },
     "KOSPI": {
-      "price": 7304.58,
-      "change": 0.0,
-      "percent": 0.0
+      "price": 6820.6,
+      "change": -463.81,
+      "percent": -6.37
     },
     "KOSDAQ": {
-      "price": 829.79,
-      "change": 45.81,
-      "percent": 5.84
+      "price": 791.84,
+      "change": -37.59,
+      "percent": -4.53
     },
     "USD/KRW": {
-      "price": 1487.28,
-      "change": -10.42,
-      "percent": -0.7
+      "price": 1476.88,
+      "change": -11.0,
+      "percent": -0.74
     }
   },
   "news": [
     {
-      "title": "중국 상반기 성장률 4.7%…年성장목표 달성 쉽지 않을듯(종합)",
-      "link": "https://n.news.naver.com/mnews/article/277/0005790375"
+      "title": "중국 창신메모리 공모 대박…임원·기술자들 수백억원대 돈방석",
+      "link": "https://n.news.naver.com/mnews/article/018/0006331875"
     },
     {
-      "title": "[속보]중국, 2분기 GDP 성장률 4.3%…예상치 하회",
-      "link": "https://n.news.naver.com/mnews/article/277/0005790310"
+      "title": "기준금리 인상 사이클 본격화…환율·금리 일제히 하락 마감(종합)",
+      "link": "https://n.news.naver.com/mnews/article/018/0006331857"
     },
     {
-      "title": "딥시크, IPO 준비 착수…2027년 중국 증시 입성 추진",
-      "link": "https://n.news.naver.com/mnews/article/277/0005790279"
+      "title": "우버, 배민 모회사 딜리버리히어로 21조원 인수 임박",
+      "link": "https://n.news.naver.com/mnews/article/277/0005791002"
     },
     {
-      "title": "“한방에 상황 반전, 흔들리던 증시 반등”…美 CPI 둔화에 7월 금리인상 확률 10% 뚝",
-      "link": "https://n.news.naver.com/mnews/article/009/0005707699"
+      "title": "구글, 플레이스토어 내 타사 앱스토어 다운로드 허용",
+      "link": "https://n.news.naver.com/mnews/article/277/0005790982"
     },
     {
-      "title": "시총 100조 넘게 증발한 IBM…되살아난 '사스포칼립스 공포'",
-      "link": "https://n.news.naver.com/mnews/article/277/0005790276"
+      "title": "서학 개미, 'SK하닉 ADR' 상장 첫날 2천600억원 순매수",
+      "link": "https://n.news.naver.com/mnews/article/001/0016198285"
     },
     {
-      "title": "배민 모회사 딜리버리히어로, 우버 품으로 가나…글로벌 배달시장 ‘메가딜’ 초읽기",
-      "link": "https://n.news.naver.com/mnews/article/009/0005707637"
+      "title": "\"우크라 드론 기술 독보적\"…EU 공동생산 합의",
+      "link": "https://n.news.naver.com/mnews/article/277/0005790922"
     },
     {
-      "title": "“27% 폭등은 시작일 뿐?”…월가 “SK하이닉스, 아직 2배 더 간다”",
-      "link": "https://n.news.naver.com/mnews/article/009/0005707626"
+      "title": "美생산자 물가 5.5% 상승 그쳐…시장 안도감 커졌다",
+      "link": "https://n.news.naver.com/mnews/article/277/0005790912"
     },
     {
-      "title": "[마켓무버]예상 밑돈 CPI에 기술주 안도 랠리…반도체 2%대 반등",
-      "link": "https://n.news.naver.com/mnews/article/018/0006330496"
+      "title": "미래운용 'TIGER 미국배당다우존스 ETF' 순자산 4조원 돌파",
+      "link": "https://n.news.naver.com/mnews/article/001/0016197957"
     },
     {
-      "title": "[MUST KNOW5]H200수출부터 IBM 실적까지...개장 전 알아야 할 5가지",
-      "link": "https://n.news.naver.com/mnews/article/018/0006330488"
+      "title": "“스페이스X 제대로 물렸네요”…공모가 탈출 기회, 내일 온다는데",
+      "link": "https://n.news.naver.com/mnews/article/009/0005708207"
     },
     {
-      "title": "中 딥시크, 내년 본토 증시 상장 추진",
-      "link": "https://n.news.naver.com/mnews/article/015/0005310127"
+      "title": "“선점필승” 돈냄새 맡은 코인시장…CXMT 주가연동선물 내놨다",
+      "link": "https://n.news.naver.com/mnews/article/009/0005708181"
     }
   ],
   "youtube": [
@@ -80,16 +80,16 @@
       "name": "삼프로TV",
       "desc": "실시간 국내외 금융 시황 & 라이브 경제 뉴스",
       "logo": "🎙️",
-      "embedUrl": "https://www.youtube.com/embed/6ODGLkKOunA?autoplay=1&mute=1",
-      "originUrl": "https://www.youtube.com/watch?v=6ODGLkKOunA"
+      "embedUrl": "https://www.youtube.com/embed/8msgcL4853g?autoplay=1&mute=1",
+      "originUrl": "https://www.youtube.com/watch?v=8msgcL4853g"
     },
     {
       "id": "syuka",
       "name": "슈카월드",
       "desc": "경제 시사 이슈를 쉽고 재밌게 요약 분석",
       "logo": "🦁",
-      "embedUrl": "https://www.youtube.com/embed/3ectdcH1a-Q?autoplay=1&mute=1",
-      "originUrl": "https://www.youtube.com/watch?v=3ectdcH1a-Q"
+      "embedUrl": "https://www.youtube.com/embed/nZ5vlxgXe2w?autoplay=1&mute=1",
+      "originUrl": "https://www.youtube.com/watch?v=nZ5vlxgXe2w"
     },
     {
       "id": "ytn",
@@ -108,14 +108,14 @@
       "originUrl": "https://www.youtube.com/watch?v=rBpjnmcIzqM"
     }
   ],
-  "summary": "📢 **오늘 아침 브리핑 (2026년 07월 15일)**\n\n간밤 미국 증시에서 예상치를 하회한 CPI 발표에 힘입어 기술주 중심의 안도 랠리가 펼쳐졌습니다. 국내 증시에서는 코스닥이 5% 이상 급등하며 투자 심리가 크게 개선된 모습입니다.\n\n📈 **주요 증시 현황**\n\n*   S&P 500: nan (nan / nan%) ⚪\n*   Nasdaq: nan (nan / nan%) ⚪\n*   Dow Jones: nan (nan / nan%) ⚪\n*   KOSPI: 7304.58 (0.0 / 0.0%) ⚪\n*   KOSDAQ: 829.79 (+45.81 / +5.84%) 🔵\n*   USD/KRW: 1487.28 (-10.42 / -0.7%) 🔵\n\n📰 **주요 이슈 요약**\n\n1.  **美 CPI 둔화에 기술주 강세 전환**: 예상치를 밑돈 미국 소비자물가지수 발표로 연준의 7월 금리 인상 확률이 크게 낮아지며, 엔비디아 등 기술주와 반도체 섹터가 강한 반등을 보였습니다. 🚀\n2.  **중국 경제 둔화 우려 지속**: 중국의 상반기 성장률 및 2분기 GDP가 시장 예상치를 하회하며, 올해 성장 목표 달성에 대한 회의적인 시각이 커지고 있습니다. 이는 글로벌 경기 회복에 대한 부담으로 작용할 수 있습니다. 📉\n3.  **글로벌 M&A 및 기업별 이슈**: 딜리버리히어로의 매각설 등 글로벌 배달 시장의 재편 움직임과 IBM의 시가총액 증발 소식 등 개별 기업의 이슈들도 시장의 주목을 받고 있습니다.\n\n💡 **국내 시장 영향성**\n\n*   **반도체/IT 강세**: 미국발 기술주 안도 랠리, 특히 반도체 섹터의 강세는 국내 반도체 대표주 및 관련 IT 기업들에 강력한 긍정적 모멘텀을 제공할 것입니다. SK하이닉스 등 대형 반도체주의 움직임이 특히 주목됩니다.\n*   **코스닥 활기**: 어제 코스닥의 5%대 급등은 성장주 중심의 투자 심리 개선을 의미하며, 중소형 기술주 및 성장 테마주에 대한 관심이 이어질 수 있습니다.\n*   **환율 안정화**: 원/달러 환율 하락은 외국인 투자 자금 유입에 긍정적인 신호로 작용할 수 있습니다.\n*   **중국 영향력 주시**: 중국 경제 둔화는 국내 대중국 수출 의존도가 높은 기업들에게는 리스크 요인이 될 수 있으니 관련 섹터는 신중한 접근이 필요합니다.\n\n오늘도 성공적인 투자 하루 보내세요! 🌟",
+  "summary": "📢 **2026년 07월 16일 오늘 아침 증시 브리핑입니다!**\n\n간밤 뉴욕 증시는 생산자 물가 지수 둔화에 힘입어 일제히 상승 마감하며 인플레이션 우려를 덜었으나, 국내 증시는 전례 없는 급락세를 보이며 투자 심리가 위축된 하루였습니다.\n\n📈 **주요 증시 현황**\n*   S&P 500: 7572.4 (+28.81 / +0.38% 🔵)\n*   Nasdaq: 26269.23 (+162.22 / +0.62% 🔵)\n*   Dow Jones: 52658.64 (+150.37 / +0.29% 🔵)\n*   KOSPI: 6820.6 (-463.81 / -6.37% 🔴)\n*   KOSDAQ: 791.84 (-37.59 / -4.53% 🔴)\n*   USD/KRW: 1476.88 (-11.0 / -0.74% 🔵)\n\n📰 **주요 이슈 요약**\n1.  **글로벌 인플레이션 완화 기대감**: 미국 생산자 물가 상승률이 예상치를 하회하며 시장에 안도감을 주었고, 이는 금리 인상 사이클의 속도 조절 기대로 이어져 뉴욕 증시 상승의 주요 동력이 되었습니다.\n2.  **반도체 산업 투자 심리 강화**: 중국 창신메모리의 공모 대박과 서학 개미의 'SK하닉 ADR' 대규모 순매수는 글로벌 반도체 산업에 대한 뜨거운 투자 열기를 보여주고 있습니다.\n3.  **플랫폼 기업 M&A 및 규제 환경 변화**: 우버의 딜리버리히어로 인수 임박 소식과 구글의 앱스토어 정책 변화는 글로벌 IT 플랫폼 시장의 재편과 경쟁 심화를 예고합니다.\n\n💡 **국내 시장 영향성**\n미국 증시의 긍정적인 흐름과 인플레이션 완화 기대감에도 불구하고, 어제 국내 증시는 큰 폭의 하락세를 기록하며 시장의 불안감을 반영했습니다. 하지만 반도체 섹터에 대한 글로벌 투자자들의 관심이 여전히 뜨겁고, 원/달러 환율 하락(원화 강세)은 외국인 수급에 긍정적으로 작용할 수 있습니다. 오늘은 전일 과도한 낙폭에 대한 기술적 반등과 함께, 반도체 및 IT 플랫폼 관련주를 중심으로 강한 회복세를 보일 수 있는지 주목해야 할 시점입니다.\n\n현명한 투자로 성공적인 하루 되시길 바랍니다! 😊",
   "recommendations": [
     {
       "name": "SK하이닉스",
       "ticker": "000660",
       "sector": "반도체",
-      "reason": "간밤 미국에서 발표된 CPI 지표가 예상치를 하회하며 7월 금리 인상 확률이 낮아졌습니다. 이에 기술주, 특히 반도체 섹터에서 강한 안도 랠리가 펼쳐졌고, 월가에서는 SK하이닉스의 목표가를 상향 조정하며 '2배 더 간다'는 긍정적 전망이 나왔습니다. HBM3E 등 고대역폭 메모리 시장의 선두 주자로서 AI 반도체 수요 증가의 직접적인 수혜를 받을 것으로 기대됩니다.",
-      "action_plan": "미국 증시의 반도체 강세에 힘입어 시초가에 급등할 가능성이 높습니다. 급작스러운 추격 매수보다는 장 초반 변동성을 지켜보며 눌림목을 활용한 분할 매수 전략이 유효합니다. 외국인과 기관의 수급 동향, 특히 개장 후 순매수 전환 여부를 지속적으로 확인하는 것이 중요합니다.",
+      "reason": "미국 생산자 물가 둔화로 인한 기술주 전반의 투자 심리 개선과 더불어, '서학 개미, SK하닉 ADR 2천600억원 순매수' 소식은 SK하이닉스에 대한 국내외 투자자들의 강력한 매수세를 확인시켜 주었습니다. 글로벌 반도체 업황 개선 기대감과 맞물려 국내 증시 하락에도 불구하고 긍정적인 수급을 기대할 수 있습니다.",
+      "action_plan": "전일 국내 증시의 과도한 낙폭에 따른 기술적 반등과 함께, 외국인 매수세 유입 여부가 중요합니다. 시초가에 강한 상승세를 보인다면 추격 매수보다는 긍정적인 수급 추이를 확인하며 분할 매수를 고려하시고, 혹시 모를 조정 시 저가 매수 기회로 활용하는 전략이 유효합니다.",
       "related_stocks": [
         {
           "name": "삼성전자",
@@ -124,6 +124,23 @@
         {
           "name": "한미반도체",
           "ticker": "042700"
+        }
+      ]
+    },
+    {
+      "name": "카카오",
+      "ticker": "035720",
+      "sector": "IT 플랫폼",
+      "reason": "'우버, 배민 모회사 딜리버리히어로 21조원 인수 임박'과 '구글, 플레이스토어 내 타사 앱스토어 다운로드 허용' 뉴스는 글로벌 IT 플랫폼 기업들의 성장 동력과 규제 환경 변화 가능성을 시사합니다. 이는 국내 대표 플랫폼 기업인 카카오의 미래 성장성에 대한 재평가 기회로 작용하며, 전일 과도한 증시 하락에 따른 저가 매수 유입 가능성을 높입니다.",
+      "action_plan": "글로벌 IT 플랫폼 산업의 활발한 움직임은 국내 기업에도 긍정적인 영향을 미칠 수 있습니다. 전일 급락 이후 기술적 반등을 노려볼 수 있으나, 시장의 불확실성을 고려하여 급등 시 추격 매수보다는 기관 및 외국인 수급 동향을 확인하며 신중하게 접근하는 것이 좋습니다.",
+      "related_stocks": [
+        {
+          "name": "네이버",
+          "ticker": "035420"
+        },
+        {
+          "name": "카카오페이",
+          "ticker": "377300"
         }
       ]
     }
