@@ -1,77 +1,77 @@
 {
-  "updated_at": "2026-07-22 16:44:25",
+  "updated_at": "2026-07-23 16:46:29",
   "indices": {
     "S&P 500": {
-      "price": 7509.2,
-      "change": 65.92,
-      "percent": 0.89
+      "price": 7498.96,
+      "change": -10.24,
+      "percent": -0.14
     },
     "Nasdaq": {
-      "price": 25837.21,
-      "change": 329.14,
-      "percent": 1.29
+      "price": 25690.9,
+      "change": -146.31,
+      "percent": -0.57
     },
     "Dow Jones": {
-      "price": 52224.64,
-      "change": 385.38,
-      "percent": 0.74
+      "price": 52218.58,
+      "change": -6.06,
+      "percent": -0.01
     },
     "KOSPI": {
-      "price": 6797.7,
-      "change": 49.75,
-      "percent": 0.74
+      "price": 7096.89,
+      "change": 299.19,
+      "percent": 4.4
     },
     "KOSDAQ": {
-      "price": 751.09,
-      "change": -2.25,
-      "percent": -0.3
+      "price": 790.28,
+      "change": 39.19,
+      "percent": 5.22
     },
     "USD/KRW": {
-      "price": 1478.2,
-      "change": 3.19,
-      "percent": 0.22
+      "price": 1471.07,
+      "change": -8.65,
+      "percent": -0.58
     }
   },
   "news": [
     {
-      "title": "中추격 속 美빅테크 수익성 우려…알파벳에 쏠린 눈",
-      "link": "https://n.news.naver.com/mnews/article/277/0005793220"
+      "title": "경제학자 2명 중 1명 \"BOJ, 12월까지 금리 인상 미룰 것\"",
+      "link": "https://n.news.naver.com/mnews/article/277/0005793827"
     },
     {
-      "title": "[포토]'전강후약' 코스피, 7천피 터치 후 6,797 마감",
-      "link": "https://n.news.naver.com/mnews/article/018/0006334759"
+      "title": "[글로벌 핫스톡]블랙록 올라탄 시큐리타이즈…RWA 인프라 선점",
+      "link": "https://n.news.naver.com/mnews/article/011/0004644425"
     },
     {
-      "title": "[포토]'7천피' 못 지킨 코스피",
-      "link": "https://n.news.naver.com/mnews/article/018/0006334758"
+      "title": "\"美, 중동에 공중급유기 더 띄운다\"…확전 대비",
+      "link": "https://n.news.naver.com/mnews/article/277/0005793760"
     },
     {
-      "title": "[포토]코스피, 7100선 찍고 상승분 반납 6700선 마감",
-      "link": "https://n.news.naver.com/mnews/article/018/0006334756"
+      "title": "원·달러 환율, 장 중 1460원대 터치…“하락 추세 진입, 1450원대 갈수도”",
+      "link": "https://n.news.naver.com/mnews/article/018/0006335512"
     },
     {
-      "title": "[포토]코스피, 0.74% 오른 6797.7로 마감.",
-      "link": "https://n.news.naver.com/mnews/article/018/0006334755"
+      "title": "테슬라 2분기 매출 증가에도 순이익 감소…시장 기대 밑돌아",
+      "link": "https://n.news.naver.com/mnews/article/277/0005793714"
     },
     {
-      "title": "[포토]코스피, 6797.70 마감",
-      "link": "https://n.news.naver.com/mnews/article/018/0006334751"
+      "title": "\"실적 예상치 뛰어넘었는데 주가는 왜…\" 자본지출 전망 높여잡은 알파벳, 불안한 투자자",
+      "link": "https://n.news.naver.com/mnews/article/277/0005793711"
     },
     {
-      "title": "[포토]코스피, 0.74% 오른 6797.70 마감",
-      "link": "https://n.news.naver.com/mnews/article/018/0006334750"
+      "title": "브록먼 오픈AI 사장 \"문샷AI 경쟁력 인정\"",
+      "link": "https://n.news.naver.com/mnews/article/277/0005793654"
     },
     {
-      "title": "[포토]코스피, 다시 7천선 아래로",
-      "link": "https://n.news.naver.com/mnews/article/018/0006334748"
+      "title": "구글 실적 나오자마자…마이클 버리, AI 순환거래 또 비판",
+      "link": "https://n.news.naver.com/mnews/article/009/0005711167"
     },
     {
-      "title": "\"요즘 제일 잘나가는 거 아니었어?\"…올해만 세 번째, 직원 수백명 내보낸 '이 회사'",
-      "link": "https://n.news.naver.com/mnews/article/277/0005793154"
+      "title": "[마켓무버]빅테크 실적 앞둔 뉴욕증시 숨 고르기…유가 급등에 3대 지수 약세",
+      "link": "https://n.news.naver.com/mnews/article/018/0006335163"
     },
     {
-      "title": "“오픈AI가 스스로 해킹했다” 충격…팔로알토 등 사이버보안株 주목",
-      "link": "https://n.news.naver.com/mnews/article/009/0005710664"
+      "title": "\"알파벳, 공급부족·자본지출 증가 동시 확인…AI 지속성에 우호적\" [분석+]",
+      "link": "https://n.news.naver.com/mnews/article/015/0005312893"
     }
   ],
   "youtube": [
@@ -80,16 +80,16 @@
       "name": "삼프로TV",
       "desc": "실시간 국내외 금융 시황 & 라이브 경제 뉴스",
       "logo": "🎙️",
-      "embedUrl": "https://www.youtube.com/embed/W-ROcIaN5l4?autoplay=1&mute=1",
-      "originUrl": "https://www.youtube.com/watch?v=W-ROcIaN5l4"
+      "embedUrl": "https://www.youtube.com/embed/a7Il08P4tSQ?autoplay=1&mute=1",
+      "originUrl": "https://www.youtube.com/watch?v=a7Il08P4tSQ"
     },
     {
       "id": "syuka",
       "name": "슈카월드",
       "desc": "경제 시사 이슈를 쉽고 재밌게 요약 분석",
       "logo": "🦁",
-      "embedUrl": "https://www.youtube.com/embed/ZV5cqHlZzZo?autoplay=1&mute=1",
-      "originUrl": "https://www.youtube.com/watch?v=ZV5cqHlZzZo"
+      "embedUrl": "https://www.youtube.com/embed/snPfEfGLIH4?autoplay=1&mute=1",
+      "originUrl": "https://www.youtube.com/watch?v=snPfEfGLIH4"
     },
     {
       "id": "ytn",
@@ -108,41 +108,6 @@
       "originUrl": "https://www.youtube.com/watch?v=isfHouEojC8"
     }
   ],
-  "summary": "📢 **2026년 07월 22일, 오늘 아침 브리핑입니다!**\n\n간밤 미국 증시는 기술주 강세에 힘입어 일제히 상승 마감했습니다. 국내 증시는 코스피가 7,000선 재돌파에 실패하며 관망세가 짙어진 가운데, 글로벌 사이버보안 이슈가 부각되며 관련주에 대한 관심이 높아지고 있습니다.\n\n📈 **주요 증시 현황**\n*   S&P 500: 7509.2 (+65.92 / +0.89% 🔴)\n*   Nasdaq: 25837.21 (+329.14 / +1.29% 🔴)\n*   Dow Jones: 52224.64 (+385.38 / +0.74% 🔴)\n*   KOSPI: 6797.7 (+49.75 / +0.74% 🔴)\n*   KOSDAQ: 751.09 (-2.25 / -0.3% 🔵)\n*   USD/KRW: 1478.2 (+3.19 / +0.22% 🔴)\n\n📰 **주요 이슈 요약**\n*   **미국 기술주 강세 속 숨겨진 우려**: 나스닥을 비롯한 미국 주요 지수가 상승 마감했지만, 중국의 추격과 특정 빅테크 기업의 수익성 및 인력 감축 소식(알파벳 등)은 시장 내 잠재적 우려를 시사합니다. 전반적인 기술주 강세 속 개별 기업의 펀더멘탈에 대한 신중한 접근이 필요해 보입니다.\n*   **코스피, 7천선 안착 실패**: 국내 코스피 지수는 장중 7,000선을 터치했으나 이내 상승분을 반납하며 6,700선에서 마감했습니다. 이는 시장의 저항과 차익 실현 압박을 보여주며, 단기 급등에 대한 경계심을 높였습니다.\n*   **사이버보안 테마 부각**: 오픈AI 해킹 이슈로 인해 팔로알토 등 글로벌 사이버보안 관련주에 대한 관심이 높아지고 있습니다. 이는 국내 보안 솔루션 기업들에게도 긍정적인 투자 심리를 자극할 수 있습니다.\n\n💡 **국내 시장 영향성 및 체크포인트**\n*   미국 기술주 강세에도 불구하고 코스피의 7,000선 안착 실패는 국내 시장의 상승 탄력에 대한 부담으로 작용할 수 있습니다. 외국인 및 기관의 수급 동향을 주시하며, 시장 전반의 차익 실현 욕구에 대비해 신중한 접근이 필요해 보입니다.\n*   글로벌 사이버보안 테마의 강세는 국내 관련 기업들에게 단기적인 모멘텀을 제공할 수 있으니 관련 종목의 움직임을 주목해 보세요.\n\n오늘도 성공적인 투자 하시길 바라며, 좋은 하루 되세요! 😊",
-  "recommendations": [
-    {
-      "name": "안랩",
-      "ticker": "053800",
-      "sector": "소프트웨어/보안",
-      "reason": "오픈AI 해킹 뉴스 및 팔로알토 등 글로벌 사이버보안 기업 주목 소식에 따라 국내 보안 솔루션 선두 기업인 안랩에 대한 투자 심리가 개선될 것으로 예상됩니다. 디지털 전환 가속화와 함께 사이버 보안 중요성이 부각되고 있어 중장기적 성장 기대감도 높습니다.",
-      "action_plan": "글로벌 보안 테마 강세가 예상되므로 시초가 급등 시 추격 매수보다는 조정 시 분할 매수를 고려하며, 관련 뉴스의 지속적인 업데이트를 확인하세요.",
-      "related_stocks": [
-        {
-          "name": "한싹",
-          "ticker": "220260"
-        },
-        {
-          "name": "파수",
-          "ticker": "150900"
-        }
-      ]
-    },
-    {
-      "name": "삼성전자",
-      "ticker": "005930",
-      "sector": "반도체 및 전자제품",
-      "reason": "전반적인 미국 증시, 특히 나스닥 지수가 1.29% 상승하며 빅테크 및 기술주 강세를 보였습니다. 이는 글로벌 반도체 수요 및 IT 산업 전반의 긍정적 기조를 반영하며, 국내 대표 반도체 기업인 삼성전자에 대한 투자 심리 개선에 기여할 것으로 보입니다. 다만, 미국 빅테크 수익성 우려 뉴스는 장중 변동성을 키울 수 있습니다.",
-      "action_plan": "글로벌 기술주 동향과 외국인 매수세 유입 여부를 지속적으로 확인하며, 코스피의 7천선 회복 시도 여부에 주목하세요. 미국 빅테크의 개별 기업 이슈가 국내 대형주 전반에 미치는 영향은 제한적일 수 있으나, 시장의 경계심은 유지해야 합니다.",
-      "related_stocks": [
-        {
-          "name": "SK하이닉스",
-          "ticker": "000660"
-        },
-        {
-          "name": "한미반도체",
-          "ticker": "042700"
-        }
-      ]
-    }
-  ]
+  "summary": "Gemini API 요약 중 오류 발생: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 30.571472765s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 30\n}\n]",
+  "recommendations": []
 }
