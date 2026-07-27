@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-26 16:54:52",
+  "updated_at": "2026-07-27 19:56:47",
   "indices": {
     "S&P 500": {
       "price": 7411.98,
@@ -17,61 +17,61 @@
       "percent": 0.46
     },
     "KOSPI": {
-      "price": 6690.62,
-      "change": -406.27,
-      "percent": -5.72
+      "price": 6755.75,
+      "change": 65.13,
+      "percent": 0.97
     },
     "KOSDAQ": {
-      "price": 748.22,
-      "change": -42.06,
-      "percent": -5.32
+      "price": 764.86,
+      "change": 16.64,
+      "percent": 2.22
     },
     "USD/KRW": {
-      "price": 1462.1,
-      "change": -11.94,
-      "percent": -0.81
+      "price": 1468.67,
+      "change": -5.37,
+      "percent": -0.36
     }
   },
   "news": [
     {
-      "title": "환율 1400원 중후반대 등락 지속…미국 FOMC 주시[주간외환전망]",
-      "link": "https://n.news.naver.com/mnews/article/018/0006336858"
+      "title": "[美특징주]코카콜라, 2Q 실적 발표 핵심은 '사이버보안 사고'…개장전 '약보합'",
+      "link": "https://n.news.naver.com/mnews/article/018/0006337793"
     },
     {
-      "title": "해외 코인거래소 새 먹거리 '토큰 닉스'…하루 수백억원 거래",
-      "link": "https://n.news.naver.com/mnews/article/001/0016214665"
+      "title": "'中반도체기업' CXMT, 상장 첫 날 시총 1위 등극…美인텔 넘어",
+      "link": "https://n.news.naver.com/mnews/article/277/0005795231"
     },
     {
-      "title": "메모리 부족은 시작일 뿐…AI 시대 돈이 향하는 곳은 [빈난새의 빈틈없이월가]",
-      "link": "https://n.news.naver.com/mnews/article/015/0005313798"
+      "title": "\"금융기관 AI 혁신 장애물은 조직문화\"",
+      "link": "https://n.news.naver.com/mnews/article/009/0005712936"
     },
     {
-      "title": "\"주가는 곤두박질, 로켓은 훨훨\" 스페이스X, IPO 후 첫 시험비행 완료",
-      "link": "https://n.news.naver.com/mnews/article/018/0006336772"
+      "title": "“AI 채택 안 하는 것이 韓 금융 산업 최대 리스크”",
+      "link": "https://n.news.naver.com/mnews/article/009/0005712922"
     },
     {
-      "title": "테슬라 주가 15% 급락 쇼크...로봇 성과 내라는 월가 [김기혁의 테슬라월드]",
-      "link": "https://n.news.naver.com/mnews/article/011/0004645114"
+      "title": "머스크 믿고 30조원 질렀는데 … 서학개미 울렸다",
+      "link": "https://n.news.naver.com/mnews/article/009/0005712919"
     },
     {
-      "title": "주가 30% 빠진 SK하이닉스…역대급 실적보다 ‘이것’에 쏠렸다",
-      "link": "https://n.news.naver.com/mnews/article/009/0005712060"
+      "title": "노무라 \"中CXMT, 공모가 1200% 간다\"…삼전닉스 추격 전망도",
+      "link": "https://n.news.naver.com/mnews/article/215/0001260138"
     },
     {
-      "title": "[뉴욕증시]유가 하락에도 반도체 매도에 혼조세 마감…나스닥 0.64%↓",
-      "link": "https://n.news.naver.com/mnews/article/277/0005794430"
+      "title": "이러다 일본도 한국처럼 되면 어쩌나…“코스피를 봐라” 경고 나온 이유",
+      "link": "https://n.news.naver.com/mnews/article/011/0004645671"
     },
     {
-      "title": "중국 키미 K3 돌풍 견제…앤트로픽, '반값 AI' 내놨다",
-      "link": "https://n.news.naver.com/mnews/article/018/0006336706"
+      "title": "엔비디아, 오픈AI 데이터센터에 2500억달러 보증 논의",
+      "link": "https://n.news.naver.com/mnews/article/277/0005795160"
     },
     {
-      "title": "무디스 \"전례 없는 AI 투자, 빅테크 신용도 위협\"…오라클·코어위브 부담 커져",
-      "link": "https://n.news.naver.com/mnews/article/018/0006336666"
+      "title": "엔화 끝없는 약세…달러·엔 환율 164엔 목전, 40년 만에 ‘최저’",
+      "link": "https://n.news.naver.com/mnews/article/018/0006337621"
     },
     {
-      "title": "뉴욕증시, 유가 하락에도 반도체 약세에 혼조…나스닥 0.6%↓(종합)",
-      "link": "https://n.news.naver.com/mnews/article/001/0016214014"
+      "title": "코치·랄프로렌 모회사 태피스트리, 아웃렛 공략에 월가 호평",
+      "link": "https://n.news.naver.com/mnews/article/015/0005314225"
     }
   ],
   "youtube": [
@@ -80,16 +80,16 @@
       "name": "삼프로TV",
       "desc": "실시간 국내외 금융 시황 & 라이브 경제 뉴스",
       "logo": "🎙️",
-      "embedUrl": "https://www.youtube.com/embed/E6iZGZoNekc?autoplay=1&mute=1",
-      "originUrl": "https://www.youtube.com/watch?v=E6iZGZoNekc"
+      "embedUrl": "https://www.youtube.com/embed/YOORvreDbVU?autoplay=1&mute=1",
+      "originUrl": "https://www.youtube.com/watch?v=YOORvreDbVU"
     },
     {
       "id": "syuka",
       "name": "슈카월드",
       "desc": "경제 시사 이슈를 쉽고 재밌게 요약 분석",
       "logo": "🦁",
-      "embedUrl": "https://www.youtube.com/embed/lXxLKWu2OGg?autoplay=1&mute=1",
-      "originUrl": "https://www.youtube.com/watch?v=lXxLKWu2OGg"
+      "embedUrl": "https://www.youtube.com/embed/9AsI2MzIWLM?autoplay=1&mute=1",
+      "originUrl": "https://www.youtube.com/watch?v=9AsI2MzIWLM"
     },
     {
       "id": "ytn",
@@ -108,41 +108,6 @@
       "originUrl": "https://www.youtube.com/watch?v=Q5Bhi6014Oo"
     }
   ],
-  "summary": "📢 **오늘 아침 브리핑 (2026년 07월 26일)**\n안녕하세요! 🌟 어제 미국 증시는 혼조세를 보인 가운데, 국내 증시는 급락했습니다. 오늘은 AI 관련 이슈와 환율 변동성에 주목해야겠습니다.\n\n📈 **주요 증시 현황**\n*   S&P 500: 7411.98 (+0.05% ⚪)\n*   Nasdaq: 24975.82 (-0.64% 🔴)\n*   Dow Jones: 51947.25 (+0.46% 🔵)\n*   KOSPI: 6690.62 (-5.72% 🔴)\n*   KOSDAQ: 748.22 (-5.32% 🔴)\n*   USD/KRW: 1462.1 (-0.81% 🔵)\n\n📰 **주요 이슈 요약**\n글로벌 증시는 AI 반도체 관련 뉴스에 민감하게 반응하고 있습니다. 칩스택의 과열 우려와 동시에 '반값 AI' 등장으로 경쟁이 심화되며 나스닥 반도체 섹터가 하락했습니다. 📉 또한, 무디스의 'AI 투자 빅테크 신용도 위협' 경고도 주목할 부분입니다. 원/달러 환율은 1400원 중반대에서 FOMC를 주시하며 등락을 지속하고 있습니다.\n\n💡 **국내 시장 영향성**\n어제 국내 증시의 급락은 다소 과도한 측면이 있어 기술적 반등을 기대할 수 있습니다. 📊 그러나 미국 반도체 약세 마감과 AI 투자 관련 우려는 국내 대형 기술주에 부담으로 작용할 수 있습니다. 환율 안정화는 외국인 매도 압력을 완화할 수 있지만, 개별 기업의 AI 성과에 대한 시장의 냉정한 평가가 이어질 것으로 보입니다.\n\n변동성이 큰 시장이지만, 투자 원칙을 지키며 성공적인 하루 보내시길 바랍니다! 😊",
-  "recommendations": [
-    {
-      "name": "SK하이닉스",
-      "ticker": "000660",
-      "sector": "반도체",
-      "reason": "글로벌 AI 시대의 핵심인 고대역폭 메모리(HBM) 시장의 선두 주자입니다. 뉴스에서 '역대급 실적보다 이것에 쏠렸다'는 언급은 투자자들이 현재의 실적보다 미래 성장성에 대한 더 높은 기대치를 가지고 있음을 시사합니다. 최근 주가 조정은 단기적인 심리적 요인일 수 있으며, AI 관련 핵심 기술력을 바탕으로 시장 기대치가 재평가될 가능성이 있습니다.",
-      "action_plan": "미국 나스닥의 반도체 약세 마감으로 단기적인 변동성은 예상되나, 중장기적 AI 성장 모멘텀은 유효합니다. 시초가 움직임을 관찰하며 낙폭 과대 시 분할 매수 관점으로 접근하거나, 외국인/기관 수급 동향을 확인하는 것이 중요합니다.",
-      "related_stocks": [
-        {
-          "name": "삼성전자",
-          "ticker": "005930"
-        },
-        {
-          "name": "한미반도체",
-          "ticker": "042700"
-        }
-      ]
-    },
-    {
-      "name": "삼성전자",
-      "ticker": "005930",
-      "sector": "반도체, IT",
-      "reason": "글로벌 반도체 산업의 대표주자로, AI 시대의 메모리 수요 증가와 파운드리 부문의 성장이 기대됩니다. 나스닥 시장의 반도체 섹터 약세에도 불구하고, 전체적인 AI 관련 투자는 지속될 것으로 보이며, 삼성전자는 종합 반도체 기업으로서 이러한 흐름의 핵심에 있습니다.",
-      "action_plan": "AI 투자 관련 '빅테크 신용도 위협'과 같은 우려가 제기되면서 단기적인 매물 출회가 있을 수 있습니다. 그러나 견조한 실적과 AI 칩 개발 등 중장기 성장 동력을 보유하고 있어, 하락 시 저가 매수의 기회로 활용해 볼 수 있습니다. 외국인 매매 동향을 주시하세요.",
-      "related_stocks": [
-        {
-          "name": "SK하이닉스",
-          "ticker": "000660"
-        },
-        {
-          "name": "DB하이텍",
-          "ticker": "000990"
-        }
-      ]
-    }
-  ]
+  "summary": "Gemini API 요약 중 오류 발생: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 12.675133879s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 12\n}\n]",
+  "recommendations": []
 }
