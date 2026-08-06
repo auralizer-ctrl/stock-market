@@ -1,77 +1,77 @@
 {
-  "updated_at": "2026-08-05 17:05:05",
+  "updated_at": "2026-08-06 17:03:16",
   "indices": {
     "S&P 500": {
-      "price": 7736.52,
-      "change": 136.02,
-      "percent": 1.79
+      "price": 7723.55,
+      "change": -12.97,
+      "percent": -0.17
     },
     "Nasdaq": {
-      "price": 26584.99,
-      "change": 671.09,
-      "percent": 2.59
+      "price": 26363.44,
+      "change": -221.55,
+      "percent": -0.83
     },
     "Dow Jones": {
-      "price": 54085.88,
-      "change": 907.47,
-      "percent": 1.71
+      "price": 54349.12,
+      "change": 263.24,
+      "percent": 0.49
     },
     "KOSPI": {
-      "price": 6598.26,
-      "change": 239.31,
-      "percent": 3.76
+      "price": 6296.38,
+      "change": -301.88,
+      "percent": -4.58
     },
     "KOSDAQ": {
-      "price": 799.59,
-      "change": 18.87,
-      "percent": 2.42
+      "price": 801.67,
+      "change": 2.08,
+      "percent": 0.26
     },
     "USD/KRW": {
-      "price": 1425.79,
-      "change": -2.71,
-      "percent": -0.19
+      "price": 1427.24,
+      "change": -1.19,
+      "percent": -0.08
     }
   },
   "news": [
     {
-      "title": "美 의회 \"中 통신장비 여전히 美 데이터센터에 잔존\"…퇴출에 속도",
-      "link": "https://n.news.naver.com/mnews/article/277/0005799344"
+      "title": "日닛케이 \"한국도 환율에 개입했나\"…원화 가치도 동시에 치솟아",
+      "link": "https://n.news.naver.com/mnews/article/277/0005799878"
     },
     {
-      "title": "‘기업가치 8조원대’ 유니트리, 中서 수요예측 시작…이달 상장",
-      "link": "https://n.news.naver.com/mnews/article/018/0006345154"
+      "title": "딥시크, 초저가 전략 접나…AI 서비스 가격 대폭 인상 예고",
+      "link": "https://n.news.naver.com/mnews/article/277/0005799877"
     },
     {
-      "title": "쿠팡Inc, 개인정보 유출 과징금에 역대최대 8천350억원 영업손실",
-      "link": "https://n.news.naver.com/mnews/article/001/0016235147"
+      "title": "일라이 릴리, 젭바운드·마운자로 효과에 2분기 깜짝 실적",
+      "link": "https://n.news.naver.com/mnews/article/015/0005318031"
     },
     {
-      "title": "쿠팡Inc, 개인정보 유출 과징금에 역대최대 8천350억원 영업손실",
-      "link": "https://n.news.naver.com/mnews/article/001/0016235140"
+      "title": "\"한국 때문에 망했네\" 급등해도 아무도 안 산다…코스피 따라 출렁이는 日증시",
+      "link": "https://n.news.naver.com/mnews/article/277/0005799838"
     },
     {
-      "title": "쿠팡Inc, 개인정보 유출 과징금에 역대최대 8천350억원 영업손실",
-      "link": "https://n.news.naver.com/mnews/article/001/0016235128"
+      "title": "구글, AI 핵심인재 4명 한꺼번에 이탈…주가 4% 떨어져",
+      "link": "https://n.news.naver.com/mnews/article/015/0005318015"
     },
     {
-      "title": "쿠팡Inc, 개인정보 유출 과징금에 역대최대 8천350억원 영업손실",
-      "link": "https://n.news.naver.com/mnews/article/001/0016235125"
+      "title": "구글, AI 조직 개편…허사비스 딥마인드 회장 맡고 제프 딘 떠난다",
+      "link": "https://n.news.naver.com/mnews/article/277/0005799772"
     },
     {
-      "title": "쿠팡Inc, 개인정보 유출 과징금에 역대최대 8천350억원 영업손실",
-      "link": "https://n.news.naver.com/mnews/article/001/0016235121"
+      "title": "美 폴리실리콘 관세 준비…中 정조준에 韓 반사이익 얻나",
+      "link": "https://n.news.naver.com/mnews/article/277/0005799764"
     },
     {
-      "title": "쿠팡Inc, 개인정보 유출 과징금에 역대최대 8천350억원 영업손실",
-      "link": "https://n.news.naver.com/mnews/article/001/0016235119"
+      "title": "환율, 장중 1415원까지 하락…10개월 만에 ‘최저’",
+      "link": "https://n.news.naver.com/mnews/article/018/0006345731"
     },
     {
-      "title": "쿠팡Inc, 개인정보 유출 과징금에 역대최대 8천350억원 영업손실",
-      "link": "https://n.news.naver.com/mnews/article/001/0016235116"
+      "title": "[MUST KNOW5]머스크의 선택은 엔비디아…AI 투자전쟁 더 뜨거워졌다",
+      "link": "https://n.news.naver.com/mnews/article/018/0006345685"
     },
     {
-      "title": "맥도날드, 2분기 실적 부진에 美 사업총괄 교체",
-      "link": "https://n.news.naver.com/mnews/article/015/0005317608"
+      "title": "블랙록·비자 손잡은 서클, 9월 ‘아크’ 메인넷 출시…2분기 순매출 선방",
+      "link": "https://n.news.naver.com/mnews/article/009/0005717352"
     }
   ],
   "youtube": [
@@ -80,16 +80,16 @@
       "name": "삼프로TV",
       "desc": "실시간 국내외 금융 시황 & 라이브 경제 뉴스",
       "logo": "🎙️",
-      "embedUrl": "https://www.youtube.com/embed/AJBzhoomvFQ?autoplay=1&mute=1",
-      "originUrl": "https://www.youtube.com/watch?v=AJBzhoomvFQ"
+      "embedUrl": "https://www.youtube.com/embed/spPTt8PP-rs?autoplay=1&mute=1",
+      "originUrl": "https://www.youtube.com/watch?v=spPTt8PP-rs"
     },
     {
       "id": "syuka",
       "name": "슈카월드",
       "desc": "경제 시사 이슈를 쉽고 재밌게 요약 분석",
       "logo": "🦁",
-      "embedUrl": "https://www.youtube.com/embed/Zcs3uzxymd0?autoplay=1&mute=1",
-      "originUrl": "https://www.youtube.com/watch?v=Zcs3uzxymd0"
+      "embedUrl": "https://www.youtube.com/embed/Lqo2SEMdVMM?autoplay=1&mute=1",
+      "originUrl": "https://www.youtube.com/watch?v=Lqo2SEMdVMM"
     },
     {
       "id": "ytn",
@@ -104,22 +104,35 @@
       "name": "홍춘욱의 쉬운 경제",
       "desc": "이코노미스트의 시장 분석 및 투자 경제학",
       "logo": "📈",
-      "embedUrl": "https://www.youtube.com/embed/iawOZV6PJMA?autoplay=1&mute=1",
-      "originUrl": "https://www.youtube.com/watch?v=iawOZV6PJMA"
+      "embedUrl": "https://www.youtube.com/embed/Dvb_nayyXJ0?autoplay=1&mute=1",
+      "originUrl": "https://www.youtube.com/watch?v=Dvb_nayyXJ0"
     }
   ],
-  "summary": "📢 **2026년 08월 05일 수요일 아침 증시 브리핑**\n\n안녕하세요! 활기찬 하루의 시작을 위한 아침 증시 브리핑입니다. 간밤 뉴욕 증시가 기술주 강세를 기반으로 큰 폭으로 상승했으며, 이에 힘입어 국내 증시도 어제 높은 상승률을 기록했습니다. 글로벌 시장의 훈풍 속에서도 개별 기업 이슈는 꼼꼼히 체크해 보시길 바랍니다!\n\n📈 **주요 증시 현황 (전일 대비)**\n- S&P 500: 7736.52 (+136.02 / +1.79% 🔴)\n- Nasdaq: 26584.99 (+671.09 / +2.59% 🔴)\n- Dow Jones: 54085.88 (+907.47 / +1.71% 🔴)\n- KOSPI: 6598.26 (+239.31 / +3.76% 🔴)\n- KOSDAQ: 799.59 (+18.87 / +2.42% 🔴)\n- USD/KRW: 1425.79 (-2.71 / -0.19% 🔵)\n\n📰 **주요 이슈 요약**\n1.  **글로벌 기술주 강세**: 간밤 뉴욕 증시가 전반적인 강세를 보였으며, 특히 나스닥 지수가 2.59% 급등하며 기술주 중심의 시장 반등을 이끌었습니다. 이는 글로벌 투자 심리 개선에 긍정적인 영향을 미칠 것으로 보입니다.\n2.  **美-中 기술 갈등 심화**: 미국 의회가 중국 통신장비의 미국 데이터센터 잔존 문제를 제기하며 퇴출에 속도를 내고 있습니다. 이는 글로벌 IT 공급망 재편 및 비중국권 기술 기업들에게 기회 요인으로 작용할 수 있습니다.\n3.  **쿠팡 대규모 손실 및 과징금**: 국내 주요 이커머스 기업인 쿠팡Inc가 역대 최대 규모의 영업손실과 과징금 소식을 발표했습니다. 이는 국내 플랫폼 및 이커머스 섹터 전반에 단기적인 투자심리 위축을 가져올 수 있는 개별 악재입니다.\n\n💡 **국내 시장 영향성 및 체크포인트**\n미국 증시의 강세와 특히 기술주의 반등은 오늘 코스피와 코스닥 시장에 긍정적인 출발을 안겨줄 것으로 예상됩니다. 특히 반도체 및 IT 관련 대형주들이 강세를 보일 가능성이 높습니다. 그러나 쿠팡발 악재는 국내 플랫폼 기업들에 대한 투자심리에 부정적인 영향을 미칠 수 있으니, 해당 섹터 투자 시에는 신중한 접근이 필요합니다. 미중 기술 갈등 심화는 국내 반도체 등 핵심 기술 기업에 중장기적인 기회로 작용할 수 있으니 관련 동향을 지속적으로 주시하세요.\n\n오늘도 성공적인 투자와 함께 활기찬 하루 되시길 바랍니다! 감사합니다. 😊",
+  "summary": "📢 **2026년 08월 06일 아침 증시 브리핑**\n\n어제 글로벌 증시는 혼조세를 보인 가운데, 특히 국내 코스피 시장은 큰 폭의 하락세를 기록하며 투자자들의 우려를 키웠습니다. 반면 코스닥은 소폭 상승하며 차별화된 움직임을 나타냈습니다.\n\n📈 **주요 증시 현황**\n*   S&P 500: 7723.55 (-12.97 / -0.17% 🔴)\n*   Nasdaq: 26363.44 (-221.55 / -0.83% 🔴)\n*   Dow Jones: 54349.12 (+263.24 / +0.49% 🔵)\n*   KOSPI: 6296.38 (-301.88 / -4.58% 🔴)\n*   KOSDAQ: 801.67 (+2.08 / +0.26% 🔵)\n*   USD/KRW: 1427.24 (-1.19 / -0.08% 🔵)\n\n📰 **주요 이슈 요약**\n1.  **AI 시장의 명암과 경쟁 심화**: 구글의 AI 인재 이탈 및 조직 개편 소식으로 나스닥이 하락 압력을 받았으나, 머스크의 엔비디아 투자 소식은 AI 반도체 및 관련 산업에 대한 뜨거운 관심을 재확인시켜주었습니다. 🧠\n2.  **강달러 진정 속 원화 강세 지속**: 원/달러 환율이 10개월 만에 최저치로 하락하는 등 원화 가치 상승세가 뚜렷합니다. 한국 정부의 환율 개입 가능성까지 언급되며 환율 시장의 변동성이 커지고 있습니다. 💲\n3.  **미중 통상 갈등 속 국내 산업 반사이익 기대**: 미국이 중국산 폴리실리콘에 대한 관세 부과를 준비하면서, 국내 태양광 및 반도체 소재 산업이 반사이익을 얻을 수 있다는 전망이 나옵니다. ☀️\n\n💡 **국내 시장 영향성**\n어제 코스피의 큰 폭 하락은 다소 이례적인데요, 오늘은 AI 산업의 견조한 성장세와 미중 갈등에 따른 반사이익 기대감이 시장에 긍정적으로 작용할지 주목됩니다. 또한, 강세로 돌아선 원/달러 환율이 국내 수출 기업 실적에 미칠 영향을 면밀히 체크하시면서, 업종별 차별화된 흐름에 대비하시는 전략이 중요해 보입니다.\n\n오늘도 성공적인 투자 하루 되세요! ✨",
   "recommendations": [
     {
-      "name": "삼성전자",
-      "ticker": "005930",
-      "sector": "반도체",
-      "reason": "간밤 미국 기술주 중심의 강력한 증시 상승과 더불어, 미국의 중국 통신장비 퇴출 가속화 뉴스는 글로벌 반도체 및 기술 기업들에게 새로운 기회 요인이 될 수 있습니다. 삼성전자는 메모리 반도체 및 파운드리 부문의 글로벌 선두 주자로서 이러한 흐름에 직접적인 수혜가 예상됩니다.",
-      "action_plan": "전일 미국 증시 강세로 시초가에 상당한 상승이 예상됩니다. 급격한 추격 매수보다는 장 초반 변동성을 주시하며 안정화될 때 분할 매수로 접근하는 전략이 유효합니다. 외국인 및 기관 투자자의 수급 동향을 면밀히 관찰하세요.",
+      "name": "OCI",
+      "ticker": "010060",
+      "sector": "화학/태양광 소재",
+      "reason": "미국이 중국산 폴리실리콘에 대한 관세 부과를 준비하면서, 비중국산 폴리실리콘의 수요 증가 및 가격 경쟁력 상승이 예상됩니다. OCI는 세계적인 폴리실리콘 생산 기업으로 이러한 미중 통상 갈등의 반사이익을 직접적으로 얻을 수 있을 것으로 기대됩니다.",
+      "action_plan": "미국 무역 정책의 구체적인 발표와 중국의 대응에 따라 단기 변동성이 커질 수 있습니다. 장기적 관점에서 비중국산 폴리실리콘의 가치 상승에 주목하며, 조정 시 분할 매수를 고려할 수 있습니다.",
       "related_stocks": [
         {
-          "name": "SK하이닉스",
-          "ticker": "000660"
+          "name": "한화솔루션",
+          "ticker": "009830"
+        }
+      ]
+    },
+    {
+      "name": "SK하이닉스",
+      "ticker": "000660",
+      "sector": "반도체",
+      "reason": "구글의 AI 인재 이탈 소식에도 불구하고, 머스크의 엔비디아 투자 확대 등 AI 산업 전반의 성장 동력은 여전히 강력합니다. SK하이닉스는 고대역폭 메모리(HBM) 시장의 선두주자로서, AI 서버 수요 증가에 따른 실적 개선 기대감이 유효합니다. 코스피의 전반적인 하락에도 불구하고 AI 반도체 테마는 견조할 것으로 보입니다.",
+      "action_plan": "코스피의 큰 폭 하락으로 인한 시장 전반의 조정 압력은 단기적인 기회가 될 수 있습니다. AI 반도체 관련 긍정적인 모멘텀을 고려하여, 시장 불안정성으로 인한 과도한 하락 시 비중 확대 전략을 검토할 수 있습니다.",
+      "related_stocks": [
+        {
+          "name": "삼성전자",
+          "ticker": "005930"
         },
         {
           "name": "한미반도체",
