@@ -1,77 +1,77 @@
 {
-  "updated_at": "2026-08-11 08:05:32",
+  "updated_at": "2026-08-12 08:10:59",
   "indices": {
     "S&P 500": {
-      "price": 7753.11,
-      "change": -4.53,
-      "percent": -0.06
-    },
-    "Nasdaq": {
-      "price": 26605.36,
-      "change": -85.26,
+      "price": 7728.2,
+      "change": -24.91,
       "percent": -0.32
     },
+    "Nasdaq": {
+      "price": 26445.45,
+      "change": -159.91,
+      "percent": -0.6
+    },
     "Dow Jones": {
-      "price": 53975.98,
-      "change": -60.95,
-      "percent": -0.11
+      "price": 53791.85,
+      "change": -184.13,
+      "percent": -0.34
     },
     "KOSPI": {
-      "price": 6258.77,
+      "price": 6299.66,
       "change": 0.0,
       "percent": 0.0
     },
     "KOSDAQ": {
-      "price": 798.81,
+      "price": 854.47,
       "change": 0.0,
       "percent": 0.0
     },
     "USD/KRW": {
-      "price": 1417.94,
-      "change": 10.94,
-      "percent": 0.78
+      "price": 1412.09,
+      "change": -5.22,
+      "percent": -0.37
     }
   },
   "news": [
     {
-      "title": "[머스트노우5]주가는 쉬어가도 여전히 돈은 'AI'에 쏠린다…종목별 움직임은?",
-      "link": "https://n.news.naver.com/mnews/article/018/0006349150"
+      "title": "호르무즈에 짓눌린 뉴욕증시…알파벳·엔비디아 기술주 약세 [뉴욕증시 브리핑]",
+      "link": "https://n.news.naver.com/mnews/article/015/0005319876"
     },
     {
-      "title": "[머스트노우5]주가는 쉬어가도 여전히 돈은 'AI'에 쏠린다…종목별 움직임은?",
-      "link": "https://n.news.naver.com/mnews/article/018/0006349144"
+      "title": "[美특징주]슈퍼마이크로컴퓨터, AI 수요에 EPS 예상 대폭 상회…시간외서 9%↑",
+      "link": "https://n.news.naver.com/mnews/article/018/0006349897"
     },
     {
-      "title": "[美특징주]퍼거슨 엔터프라이즈, 2Q 호실적·연간 전망 상향에 주가↑",
-      "link": "https://n.news.naver.com/mnews/article/018/0006349137"
+      "title": "[TODAY엔비디아]BofA “엔비디아 5000억달러 금융 플랫폼, 오히려 긍정적”",
+      "link": "https://n.news.naver.com/mnews/article/018/0006349896"
     },
     {
-      "title": "테이크 투, GTA VI 사전주문 '역대급'…목표가↑-웰스파고",
-      "link": "https://n.news.naver.com/mnews/article/018/0006349136"
+      "title": "엔비디아, 5000억 달러 AI 인프라 금융 파트너십 체결에 역할 확대 '주목'-웰스파고",
+      "link": "https://n.news.naver.com/mnews/article/018/0006349894"
     },
     {
-      "title": "[美특징주]TSMC, 7월 매출 45% 급증…주가↑",
-      "link": "https://n.news.naver.com/mnews/article/018/0006349135"
+      "title": "호르무즈 불확실성에 꺾인 뉴욕증시, 나스닥 0.6% 하락",
+      "link": "https://n.news.naver.com/mnews/article/015/0005319862"
     },
     {
-      "title": "[美특징주]앱셀레라, 갱년기 치료제 임상 2상 성공에 주가 36% '급등'",
-      "link": "https://n.news.naver.com/mnews/article/018/0006349133"
+      "title": "뉴욕증시, 호르무즈 불확실성 지속에 하락…다우 0.3%↓(종합)",
+      "link": "https://n.news.naver.com/mnews/article/001/0016245880"
     },
     {
-      "title": "가이드와이어, 클라우드 전환·AI 수혜 기대...'비중확대' 개시-파이퍼 샌들러",
-      "link": "https://n.news.naver.com/mnews/article/018/0006349132"
+      "title": "호르무즈 회의론에 美증시 이틀째 하락…나스닥 0.6%↓[월스트리트in]",
+      "link": "https://n.news.naver.com/mnews/article/018/0006349866"
     },
     {
-      "title": "세즐, 최근 주가 급락에 밸류에이션 매력 부각...투자의견 상향-TD코웬",
-      "link": "https://n.news.naver.com/mnews/article/018/0006349131"
+      "title": "美·이란 '해협 주도권' 기싸움…합의 임박설에도 굳게 닫힌 호르무즈(종합)",
+      "link": "https://n.news.naver.com/mnews/article/277/0005801788"
     },
     {
-      "title": "[마켓톡스]JP모간 ”S&P500 목표치 8000 상향…AI 투자 수익화 기대“",
-      "link": "https://n.news.naver.com/mnews/article/018/0006349130"
+      "title": "[뉴욕증시]굳게 닫힌 호르무즈…일제히 하락 마감",
+      "link": "https://n.news.naver.com/mnews/article/277/0005801787"
     },
     {
-      "title": "[美특징주]브로드컴, AI칩 성장 기회 확대…28년 성장능력 확대-미즈호",
-      "link": "https://n.news.naver.com/mnews/article/018/0006349129"
+      "title": "뉴욕증시, 호르무즈 불확실성 지속에 하락…다우 0.3%↓",
+      "link": "https://n.news.naver.com/mnews/article/001/0016245872"
     }
   ],
   "youtube": [
@@ -80,16 +80,16 @@
       "name": "삼프로TV",
       "desc": "실시간 국내외 금융 시황 & 라이브 경제 뉴스",
       "logo": "🎙️",
-      "embedUrl": "https://www.youtube.com/embed/jbEfkQCjcM0?autoplay=1&mute=1",
-      "originUrl": "https://www.youtube.com/watch?v=jbEfkQCjcM0"
+      "embedUrl": "https://www.youtube.com/embed/dZzICbpzsuI?autoplay=1&mute=1",
+      "originUrl": "https://www.youtube.com/watch?v=dZzICbpzsuI"
     },
     {
       "id": "syuka",
       "name": "슈카월드",
       "desc": "경제 시사 이슈를 쉽고 재밌게 요약 분석",
       "logo": "🦁",
-      "embedUrl": "https://www.youtube.com/embed/2Y-4jWb4qBA?autoplay=1&mute=1",
-      "originUrl": "https://www.youtube.com/watch?v=2Y-4jWb4qBA"
+      "embedUrl": "https://www.youtube.com/embed/QIynCaN5oNo?autoplay=1&mute=1",
+      "originUrl": "https://www.youtube.com/watch?v=QIynCaN5oNo"
     },
     {
       "id": "ytn",
@@ -104,18 +104,18 @@
       "name": "홍춘욱의 쉬운 경제",
       "desc": "이코노미스트의 시장 분석 및 투자 경제학",
       "logo": "📈",
-      "embedUrl": "https://www.youtube.com/embed/CTgMPwTHN3o?autoplay=1&mute=1",
-      "originUrl": "https://www.youtube.com/watch?v=CTgMPwTHN3o"
+      "embedUrl": "https://www.youtube.com/embed/kT62OTOJBEE?autoplay=1&mute=1",
+      "originUrl": "https://www.youtube.com/watch?v=kT62OTOJBEE"
     }
   ],
-  "summary": "📢 **오늘 아침 브리핑**: 2026년 08월 11일, 간밤 뉴욕 증시는 소폭 하락하며 숨고르기에 들어갔지만, 'AI'와 '반도체' 섹터는 여전히 뜨거운 관심 속에 견조한 흐름을 이어갔습니다.\n\n📈 **주요 증시 현황**\n*   S&P 500: 7,753.11 (-0.06%) 🔴\n*   Nasdaq: 26,605.36 (-0.32%) 🔴\n*   Dow Jones: 53,975.98 (-0.11%) 🔴\n*   KOSPI: 6,258.77 (0.00%) ⚪\n*   KOSDAQ: 798.81 (0.00%) ⚪\n*   USD/KRW: 1,417.94 (+0.78%) 🔴 (원화 약세)\n\n📰 **주요 이슈 요약**\n*   **AI 및 반도체 섹터의 견고한 성장**: 주가는 잠시 쉬어가도 'AI' 테마에 대한 투자자들의 관심과 자금 유입은 지속되고 있습니다. 특히, TSMC의 7월 매출 급증과 브로드컴의 AI칩 성장 기대감 등 AI 반도체 기업들의 긍정적인 소식은 산업 전반의 기대감을 높였습니다. JP모간 또한 S&P500 목표치를 상향하며 AI 투자 수익화에 대한 기대를 표했습니다.\n*   **개별 기업의 실적 호조 및 신기술 기대감**: 퍼거슨 엔터프라이즈의 호실적, 테이크 투의 'GTA VI' 사전주문 역대급 기록, 앱셀레라의 임상 2상 성공 등 기업별 펀더멘털 및 기술력에 기반한 주가 상승 흐름도 두드러졌습니다.\n\n💡 **국내 시장 영향성**\n*   미국 증시의 AI 및 반도체 관련 강세는 오늘 국내 증시의 IT 대형주, 특히 반도체 섹터에 긍정적인 영향을 미칠 것으로 예상됩니다. HBM 관련주 및 AI 밸류체인에 속한 기업들의 움직임에 주목할 필요가 있습니다.\n*   다만, 미 증시가 소폭 하락 마감한 점과 원/달러 환율 상승(원화 약세)은 외국인 수급에 일부 부담을 줄 수 있으므로, 장 초반 흐름을 예의주시하며 신중한 접근이 필요해 보입니다.\n\n오늘도 성공적인 투자 하루 되시길 바랍니다!",
+  "summary": "📢 **오늘 아침 브리핑**\n2026년 08월 12일 수요일 아침입니다! ☀️ 지난 밤 뉴욕 증시는 호르무즈 해협을 둘러싼 지정학적 불확실성 지속으로 주요 지수들이 일제히 하락 마감했습니다. 📉 다만, AI 관련 개별 종목에서는 긍정적인 소식도 포착되었습니다.\n\n📈 **주요 증시 현황**\n*   S&P 500: 7728.2 (-24.91 / -0.32%) 🔴\n*   Nasdaq: 26445.45 (-159.91 / -0.6%) 🔴\n*   Dow Jones: 53791.85 (-184.13 / -0.34%) 🔴\n*   KOSPI: 6299.66 (0.0 / 0.0%) ⚪\n*   KOSDAQ: 854.47 (0.0 / 0.0%) ⚪\n*   USD/KRW: 1412.09 (-5.22 / -0.37%) 🔵\n\n📰 **주요 이슈 요약**\n1.  **호르무즈 해협 불확실성 지속**: 미국-이란 간 해협 주도권 기싸움 장기화 우려가 투자 심리를 위축시키며, 뉴욕 증시 전반의 하락을 견인했습니다. 이는 글로벌 교역 및 유가에 대한 우려를 키우고 있습니다.  geopolitics\n2.  **기술주 혼조 속 AI 모멘텀 견조**: 전반적인 기술주 약세에도 불구하고, 슈퍼마이크로컴퓨터가 AI 수요에 힘입어 예상을 대폭 뛰어넘는 실적을 발표하며 시간외에서 급등했습니다. 엔비디아 또한 5000억 달러 규모의 AI 인프라 금융 파트너십 체결 소식으로 긍정적인 평가를 받으며, AI 섹터의 견조한 성장세를 재확인시켰습니다. 🤖\n3.  **원/달러 환율 하락**: 글로벌 위험 회피 심리 속에서도 원/달러 환율이 소폭 하락하며 원화 강세를 보인 점은 외국인 투자자금 유출 압력을 일부 완화할 수 있는 긍정적인 요인입니다. 💸\n\n💡 **국내 시장 영향성**\n글로벌 지정학적 리스크는 국내 증시에도 투자 심리 위축 요인으로 작용하며, 특히 수출주에 대한 불확실성을 높일 수 있습니다. 그러나 AI 반도체 섹터의 긍정적인 모멘텀은 국내 관련 기업들에게는 차별적인 상승 동력으로 작용할 수 있습니다. 원화 강세는 외국인 매도 압력을 일부 상쇄할 가능성이 있습니다. 시장의 변동성이 커질 수 있으니, 주요 뉴스와 외국인/기관 수급 동향을 면밀히 관찰하는 것이 중요합니다. 꼼꼼한 대응이 필요한 하루가 되겠습니다! 🧐\n\n오늘 하루도 성공적인 투자 이어가시길 바랍니다! 🍀",
   "recommendations": [
     {
       "name": "삼성전자",
       "ticker": "005930",
-      "sector": "반도체 및 IT",
-      "reason": "간밤 TSMC의 7월 매출 급증과 브로드컴의 AI칩 성장 기대감 등 글로벌 반도체 및 AI 섹터의 강한 흐름이 삼성전자에게 긍정적인 모멘텀으로 작용할 것입니다. 메모리 반도체(특히 HBM) 및 파운드리 부문에서 AI 시장 성장의 직접적인 수혜가 예상됩니다.",
-      "action_plan": "AI 반도체 시장의 지속적인 성장이 기대되므로, 장 초반 급등 시 추격 매수보다는 눌림목 구간을 활용한 분할 매수 전략이 유효합니다. 외국인 수급 동향을 함께 확인하세요.",
+      "sector": "반도체",
+      "reason": "미국 슈퍼마이크로컴퓨터의 AI 수요 기반 실적 호조와 엔비디아의 AI 인프라 금융 파트너십 소식은 글로벌 AI 산업의 견조한 성장세를 재확인시켜주고 있습니다. 삼성전자는 메모리 반도체(HBM) 및 파운드리 부문에서 AI 시장의 핵심 공급자로서, 이러한 긍정적인 AI 모멘텀의 직접적인 수혜가 기대됩니다. 비록 지정학적 리스크로 인한 전반적인 기술주 약세가 있었지만, AI 분야의 차별적인 강세는 국내 반도체 대장주에 긍정적으로 작용할 것입니다.",
+      "action_plan": "글로벌 지정학적 불확실성으로 인한 시장 변동성이 커질 수 있으므로, 급등 시 추격 매수보다는 장 초반 변동성을 지켜보며 분할 매수 관점으로 접근하는 것이 유리합니다. 외국인 수급 동향을 면밀히 관찰하며 대응하세요.",
       "related_stocks": [
         {
           "name": "SK하이닉스",
@@ -124,23 +124,6 @@
         {
           "name": "한미반도체",
           "ticker": "042700"
-        }
-      ]
-    },
-    {
-      "name": "SK하이닉스",
-      "ticker": "000660",
-      "sector": "반도체",
-      "reason": "AI 시대 필수적인 고대역폭 메모리(HBM) 시장의 선두 주자로서 글로벌 AI 및 반도체 섹터의 호황에 가장 직접적인 수혜를 받을 수 있는 종목입니다. JP모간의 S&P500 목표 상향 이유 중 하나인 AI 투자 수익화 기대감이 SK하이닉스 실적 개선에 대한 기대로 이어질 수 있습니다.",
-      "action_plan": "HBM 수요 증가에 대한 기대감이 지속되는 가운데, 반도체 관련 긍정적인 뉴스 흐름에 따라 변동성이 확대될 수 있습니다. 단기 급등 시 일부 차익 실현 후 조정 시 재매수하는 전략도 고려할 수 있습니다.",
-      "related_stocks": [
-        {
-          "name": "삼성전자",
-          "ticker": "005930"
-        },
-        {
-          "name": "이수페타시스",
-          "ticker": "007660"
         }
       ]
     }
