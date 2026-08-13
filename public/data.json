@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-08-13 08:09:13",
+  "updated_at": "2026-08-14 08:11:01",
   "indices": {
     "S&P 500": {
-      "price": 7748.5,
-      "change": 20.3,
-      "percent": 0.26
+      "price": 7798.99,
+      "change": 50.49,
+      "percent": 0.65
     },
     "Nasdaq": {
-      "price": 26588.49,
-      "change": 143.04,
-      "percent": 0.54
+      "price": 26803.03,
+      "change": 214.54,
+      "percent": 0.81
     },
     "Dow Jones": {
-      "price": 53770.27,
-      "change": -21.58,
-      "percent": -0.04
+      "price": 53839.99,
+      "change": 69.72,
+      "percent": 0.13
     },
     "KOSPI": {
-      "price": 6345.53,
+      "price": 6579.04,
       "change": 0.0,
       "percent": 0.0
     },
@@ -27,51 +27,51 @@
       "percent": 0.0
     },
     "USD/KRW": {
-      "price": 1416.9,
-      "change": 4.72,
-      "percent": 0.33
+      "price": 1418.09,
+      "change": 1.63,
+      "percent": 0.12
     }
   },
   "news": [
     {
-      "title": "[마켓무버]CPI 안도 속 AI·반도체 강세…나스닥 상승·다우 약보합",
-      "link": "https://n.news.naver.com/mnews/article/018/0006350714"
+      "title": "[속보] 트럼프 \"'美투자' 외국 조선소에 선박 최대 2척 건조 승인\"",
+      "link": "https://n.news.naver.com/mnews/article/277/0005802969"
     },
     {
-      "title": "美인플레 공포 덜었다…아시아 증시 이틀째 상승 출발 전망",
-      "link": "https://n.news.naver.com/mnews/article/018/0006350704"
+      "title": "[속보]트럼프, 드론·드론부품에 최대 100% 관세…한국은 15%",
+      "link": "https://n.news.naver.com/mnews/article/277/0005802964"
     },
     {
-      "title": "머스크 \"스페이스X AI 매출, 내달 기존 사업 모두 넘어설 것\"",
-      "link": "https://n.news.naver.com/mnews/article/277/0005802369"
+      "title": "물가·유가 꺾이자…S&P500 사상 최고 찍었다 [뉴욕증시 브리핑]",
+      "link": "https://n.news.naver.com/mnews/article/015/0005320800"
     },
     {
-      "title": "CPI 상승세 둔화 속 혼조…나스닥 0.54%↑ [뉴욕증시 브리핑]",
-      "link": "https://n.news.naver.com/mnews/article/015/0005320332"
+      "title": "오픈AI, IPO 앞두고 8개월 만에 CRO 교체…기업 매출 강화",
+      "link": "https://n.news.naver.com/mnews/article/277/0005802957"
     },
     {
-      "title": "[美특징주]GM, LG와 합작 배터리 공장 7개월 만에 생산 재개…개장전 '반등'",
-      "link": "https://n.news.naver.com/mnews/article/018/0006350675"
+      "title": "'빅쇼트' 버리의 경고…\"비정상적 신용 구조가 등장했다\" [Fed 워치]",
+      "link": "https://n.news.naver.com/mnews/article/015/0005320786"
     },
     {
-      "title": "뉴욕증시, 인플레 둔화 속 AI 낙관론 재개…나스닥 0.5%↑(종합)",
-      "link": "https://n.news.naver.com/mnews/article/001/0016248253"
+      "title": "[오후장특징주]슈퍼마이크로컴퓨터, 태피스트리, 버켄스탁",
+      "link": "https://n.news.naver.com/mnews/article/018/0006351479"
     },
     {
-      "title": "세레브라스, 가이던스 상향에도 시간외 14%↓…HW 매출 부진 발목",
-      "link": "https://n.news.naver.com/mnews/article/018/0006350673"
+      "title": "[마켓톡스]‘빅쇼트’ 스티브 아이즈먼 “AI 붐의 약점은 오픈AI·앤트로픽 의존”",
+      "link": "https://n.news.naver.com/mnews/article/018/0006351477"
     },
     {
-      "title": "美 민주당 '좌클릭' 제동…위스콘신에서 프란체스카 홍 패배",
-      "link": "https://n.news.naver.com/mnews/article/277/0005802353"
+      "title": "\"물가 잠잠하니 연준도 여유\"…S&P500 '사상 최고'[월스트리트in]",
+      "link": "https://n.news.naver.com/mnews/article/018/0006351475"
     },
     {
-      "title": "시진핑 “중국엔 당신이 필요” 격려한 이 회사…상장심사 석달만에 끝냈다",
-      "link": "https://n.news.naver.com/mnews/article/009/0005720332"
+      "title": "[뉴욕증시]PPI 보합에 금리인상 일부 후퇴…S&P500 최고치 경신",
+      "link": "https://n.news.naver.com/mnews/article/277/0005802951"
     },
     {
-      "title": "CPI 안도+AI 실적 훈풍…나스닥100 한달來 최고[월스트리트in]",
-      "link": "https://n.news.naver.com/mnews/article/018/0006350659"
+      "title": "[속보]美 PPI 훈풍에…S&P '사상 최고'·나스닥 0.8%↑",
+      "link": "https://n.news.naver.com/mnews/article/018/0006351473"
     }
   ],
   "youtube": [
@@ -80,16 +80,16 @@
       "name": "삼프로TV",
       "desc": "실시간 국내외 금융 시황 & 라이브 경제 뉴스",
       "logo": "🎙️",
-      "embedUrl": "https://www.youtube.com/embed/R80LPDWRkps?autoplay=1&mute=1",
-      "originUrl": "https://www.youtube.com/watch?v=R80LPDWRkps"
+      "embedUrl": "https://www.youtube.com/embed/ZL7LDBapR4o?autoplay=1&mute=1",
+      "originUrl": "https://www.youtube.com/watch?v=ZL7LDBapR4o"
     },
     {
       "id": "syuka",
       "name": "슈카월드",
       "desc": "경제 시사 이슈를 쉽고 재밌게 요약 분석",
       "logo": "🦁",
-      "embedUrl": "https://www.youtube.com/embed/pV8p4PcXvMs?autoplay=1&mute=1",
-      "originUrl": "https://www.youtube.com/watch?v=pV8p4PcXvMs"
+      "embedUrl": "https://www.youtube.com/embed/vSWPtH9V7so?autoplay=1&mute=1",
+      "originUrl": "https://www.youtube.com/watch?v=vSWPtH9V7so"
     },
     {
       "id": "ytn",
@@ -104,18 +104,18 @@
       "name": "홍춘욱의 쉬운 경제",
       "desc": "이코노미스트의 시장 분석 및 투자 경제학",
       "logo": "📈",
-      "embedUrl": "https://www.youtube.com/embed/SGrHJlvKyLQ?autoplay=1&mute=1",
-      "originUrl": "https://www.youtube.com/watch?v=SGrHJlvKyLQ"
+      "embedUrl": "https://www.youtube.com/embed/1LQ8fXMcyXA?autoplay=1&mute=1",
+      "originUrl": "https://www.youtube.com/watch?v=1LQ8fXMcyXA"
     }
   ],
-  "summary": "📢 **오늘 아침 브리핑 (2026년 08월 13일)**\n간밤 뉴욕 증시는 인플레이션 둔화 안도감과 AI 산업 낙관론에 힘입어 기술주 중심의 강세를 보였습니다. 나스닥 지수가 크게 상승하며 국내 증시에도 긍정적인 출발이 예상됩니다.\n\n📈 **주요 증시 현황**\n*   S&P 500: 7748.5 (+20.3 / +0.26%) 🔵\n*   Nasdaq: 26588.49 (+143.04 / +0.54%) 🔵\n*   Dow Jones: 53770.27 (-21.58 / -0.04%) 🔴\n*   KOSPI: 6345.53 (0.0 / 0.0%) ⚪\n*   KOSDAQ: 858.91 (0.0 / 0.0%) ⚪\n*   USD/KRW: 1416.9 (+4.72 / +0.33%) 🔴 (원화 약세)\n\n📰 **주요 이슈 요약**\n1.  **美 인플레이션 둔화**: CPI 상승세가 둔화되며 시장의 긴축 우려가 완화, 위험 자산 선호 심리를 자극했습니다.\n2.  **AI 및 반도체 강세**: 일론 머스크의 AI 관련 발언과 전반적인 AI 산업 낙관론이 기술주 전반에 긍정적 영향을 미치며 나스닥 상승을 견인했습니다.\n3.  **배터리 산업 긍정 신호**: GM과 LG의 합작 배터리 공장 생산 재개 소식은 배터리 산업에 대한 기대감을 높였습니다.\n\n💡 **국내 시장 영향성**\n오늘 국내 증시는 전반적으로 강세 출발이 예상됩니다. 미국 시장에서 AI 및 반도체 관련 기술주들이 강세를 보인 만큼, 국내 반도체 및 AI 관련 대형주들이 시장을 이끌 것으로 보입니다. 다만, 원/달러 환율의 소폭 상승은 외국인 수급에 영향을 줄 수 있으니 동향을 체크하시는 것이 좋겠습니다. 좋은 하루 되세요! ☀️",
+  "summary": "📢 **오늘 아침 브리핑 (2026년 08월 14일)**\n미국 증시가 물가 안정화 기대감에 힘입어 S&P 500과 나스닥이 사상 최고치를 경신하며 강세를 보였습니다. 국내 증시도 긍정적 흐름이 예상됩니다! ✨\n\n📈 **주요 증시 현황**\n- S&P 500: 7798.99 (+0.65%) 🔴\n- Nasdaq: 26803.03 (+0.81%) 🔴\n- Dow Jones: 53839.99 (+0.13%) 🔴\n- KOSPI: 6579.04 (0.00%) ⚪\n- KOSDAQ: 858.91 (0.00%) ⚪\n- USD/KRW: 1418.09 (+0.12%) 🔴 (원화 약세)\n\n📰 **주요 이슈 요약**\n1.  **✅ 미국 증시 사상 최고치**: 예상치를 밑돈 PPI 등 물가 지표 안정화로 연준의 금리 인상 속도 조절 기대감이 확대되며 S&P 500과 나스닥이 역사적 고점을 경신, 기술주가 강세를 보였습니다.\n2.  **✅ AI 산업 모멘텀 지속**: 오픈AI CRO 교체 등 AI 기업들의 매출 강화 움직임과 함께 AI 붐은 여전히 강력한 모멘텀을 유지하고 있습니다. 이는 관련 기술주에 긍정적입니다.\n3.  **✅ 트럼프발 관세 정책 부상**: 트럼프 전 대통령의 드론 관세 부과 및 '美투자' 외국 조선소 선박 건조 승인 소식은 일부 산업에 대한 보호주의 강화와 무역 정책의 불확실성을 높일 수 있습니다.\n\n💡 **국내 시장 영향성**\n뉴욕 증시의 훈풍에 힘입어 국내 증시도 긍정적인 출발이 예상됩니다. 특히, AI 및 기술 섹터에 대한 투자 심리가 개선될 것으로 보입니다. 다만, 트럼프 전 대통령의 관세 정책은 특정 산업에 개별적 영향을 줄 수 있으며, 미중 무역 갈등 재점화 가능성 등 지정학적 리스크를 주시해야 합니다. 원화 약세는 수출 기업에 긍정적 영향을 줄 수 있습니다.\n\n오늘 하루도 성공적인 투자 되시길 바랍니다! 🚀",
   "recommendations": [
     {
       "name": "삼성전자",
       "ticker": "005930",
       "sector": "반도체",
-      "reason": "간밤 미국 증시에서 AI 및 반도체 섹터가 강세를 보였고, 나스닥 지수 상승을 견인했습니다. CPI 둔화로 인한 시장의 위험선호 심리가 회복되며 AI 관련 기술주에 대한 기대감이 커진 것이 삼성전자 주가에 긍정적인 영향을 미칠 것으로 예상됩니다.",
-      "action_plan": "미국 시장 훈풍으로 시초가 상승이 예상되나, 과도한 추격 매수는 지양하고 시장 분위기를 관망하며 분할 매수 기회를 노리는 전략이 유효합니다. 외국인 수급 동향에 주목하세요.",
+      "reason": "미국 PPI 안정화 및 연준 금리 인상 우려 완화로 뉴욕 증시가 사상 최고치를 경신했으며, 특히 AI와 기술주가 강세를 보였습니다. 삼성전자는 글로벌 AI 붐의 핵심인 고대역폭 메모리(HBM) 및 파운드리 기술을 선도하며, 이러한 기술주 랠리의 직접적인 수혜가 예상됩니다. 또한, 원화 약세는 수출 비중이 높은 삼성전자 실적에 긍정적입니다.",
+      "action_plan": "견조한 미국 증시 흐름에 따라 긍정적인 출발이 예상되나, 시초가 급등 시 변동성이 커질 수 있습니다. 장 초반 흐름을 지켜본 후, AI 반도체 수요 증가와 실적 개선 기대감을 바탕으로 중장기적인 관점에서 분할 매수하는 전략이 유효합니다.",
       "related_stocks": [
         {
           "name": "SK하이닉스",
@@ -128,19 +128,19 @@
       ]
     },
     {
-      "name": "LG에너지솔루션",
-      "ticker": "373220",
-      "sector": "2차전지",
-      "reason": "미국 GM과 LG의 합작 배터리 공장 생산 재개 소식이 들려오며 2차전지 산업 전반에 대한 긍정적인 분위기가 형성되고 있습니다. LG에너지솔루션은 글로벌 배터리 시장의 선두 주자로서 관련 소식에 민감하게 반응할 것으로 예상됩니다.",
-      "action_plan": "배터리 산업 전반의 긍정적 모멘텀이 작용할 수 있으나, 단기 급등 시 차익 실현 물량에 주의해야 합니다. 장기적인 관점에서 접근하되, 전방 산업의 회복 속도와 실제 수주 상황을 지속적으로 체크해야 합니다.",
+      "name": "네이버",
+      "ticker": "035420",
+      "sector": "인터넷 플랫폼 / AI",
+      "reason": "글로벌 AI 붐 지속 및 오픈AI의 매출 강화 움직임은 전반적인 AI 관련 기업들의 투자 심리를 개선시킬 것으로 보입니다. 네이버는 자체적인 초대규모 AI 모델 '하이퍼클로바X'를 기반으로 다양한 AI 서비스를 확대하고 있으며, AI 기술 경쟁력 강화에 대한 기대감이 높아지고 있습니다. 나스닥의 강세는 국내 기술 성장주에도 긍정적인 영향을 미칠 것입니다.",
+      "action_plan": "AI 기술주에 대한 관심이 높아지는 가운데, 네이버는 장기적인 AI 성장 모멘텀을 보유하고 있습니다. 단기적인 시장 변동성보다는 AI 신기술 도입 및 서비스 확장에 따른 기업가치 변화에 초점을 맞춰 투자 전략을 수립하는 것이 좋습니다.",
       "related_stocks": [
         {
-          "name": "LG화학",
-          "ticker": "051910"
+          "name": "카카오",
+          "ticker": "035720"
         },
         {
-          "name": "삼성SDI",
-          "ticker": "006400"
+          "name": "솔트룩스",
+          "ticker": "300480"
         }
       ]
     }
