@@ -1,77 +1,77 @@
 {
-  "updated_at": "2026-08-20 07:48:54",
+  "updated_at": "2026-08-21 07:52:35",
   "indices": {
     "S&P 500": {
-      "price": 7707.98,
-      "change": 16.22,
-      "percent": 0.21
+      "price": 7641.16,
+      "change": -66.82,
+      "percent": -0.87
     },
     "Nasdaq": {
-      "price": 26331.09,
-      "change": 41.38,
-      "percent": 0.16
+      "price": 26067.17,
+      "change": -263.92,
+      "percent": -1.0
     },
     "Dow Jones": {
-      "price": 53463.05,
-      "change": 119.65,
-      "percent": 0.22
+      "price": 52759.21,
+      "change": -703.84,
+      "percent": -1.32
     },
     "KOSPI": {
-      "price": 6869.83,
+      "price": 6471.17,
       "change": 0.0,
       "percent": 0.0
     },
     "KOSDAQ": {
-      "price": 834.2,
+      "price": 824.46,
       "change": 0.0,
       "percent": 0.0
     },
     "USD/KRW": {
-      "price": 1388.39,
-      "change": -26.34,
-      "percent": -1.86
+      "price": 1393.22,
+      "change": -20.36,
+      "percent": -1.44
     }
   },
   "news": [
     {
-      "title": "[마켓무버]美 국채 바이백 확대에 금리 하락…뉴욕증시 소폭 상승",
-      "link": "https://n.news.naver.com/mnews/article/018/0006354542"
+      "title": "빅터 차 \"북미회담 성공해도 한국의 핵무장 필요 없어\"[인터뷰]",
+      "link": "https://n.news.naver.com/mnews/article/277/0005805532"
     },
     {
-      "title": "美상업 매출 149% 급증…팔란티어, 정부·기업 싹쓸이 비결은[클릭 e종목]",
-      "link": "https://n.news.naver.com/mnews/article/277/0005804913"
+      "title": "뉴욕증시, 美국채금리 반등에 일제히 하락…반도체주는 선방 [뉴욕증시 브리핑]",
+      "link": "https://n.news.naver.com/mnews/article/015/0005323096"
     },
     {
-      "title": "미국 국가 부채 사상 첫 40조달러 돌파…악순환 우려",
-      "link": "https://n.news.naver.com/mnews/article/018/0006354529"
+      "title": "월마트, 기존점포 매출 증가율 6년 만에 최저…소비 둔화 영향",
+      "link": "https://n.news.naver.com/mnews/article/277/0005805523"
     },
     {
-      "title": "美재무부 '유동성 구명줄'에 국채금리 안도…뉴욕증시 소폭 상승(종합)",
-      "link": "https://n.news.naver.com/mnews/article/001/0016260001"
+      "title": "뉴욕증시, 美국채금리 반등에 일제히 하락…다우 1.3%↓(종합)",
+      "link": "https://n.news.naver.com/mnews/article/001/0016262681"
     },
     {
-      "title": "베선트가 급한 불 껐다…장기금리↓ 美증시↑[월스트리트in]",
-      "link": "https://n.news.naver.com/mnews/article/018/0006354501"
+      "title": "美 국채시장 대응 엇갈린 행보…Fed는 시장에, 재무부는 개입",
+      "link": "https://n.news.naver.com/mnews/article/277/0005805517"
     },
     {
-      "title": "[속보]美 국가부채, 사상 첫 40조달러 돌파",
-      "link": "https://n.news.naver.com/mnews/article/277/0005804893"
+      "title": "일일천하로 끝난 ‘베선트 풋’…비트코인 7만불 돌파 [월가월부]",
+      "link": "https://n.news.naver.com/mnews/article/009/0005723807"
     },
     {
-      "title": "채권발작 진정?…재무부 긴급처방에 금리 급락, 美증시 반등 [월가월부]",
-      "link": "https://n.news.naver.com/mnews/article/009/0005723227"
+      "title": "[뉴욕증시]베선트 '금리 방어'에도 장기채 금리 반등…다우 1.32% ↓",
+      "link": "https://n.news.naver.com/mnews/article/277/0005805512"
     },
     {
-      "title": "[뉴욕증시]재무부 바이백 전격 확대…일제히 소폭 상승 마감",
-      "link": "https://n.news.naver.com/mnews/article/277/0005804892"
+      "title": "‘베선트 효과’ 하루 만에 끝…금리·유가↑에 뉴욕증시↓[월스트리트in]",
+      "link": "https://n.news.naver.com/mnews/article/018/0006355347"
     },
     {
-      "title": "뉴욕증시, 美 국채금리 하락에 소폭 상승…다우 0.2%↑",
-      "link": "https://n.news.naver.com/mnews/article/001/0016259964"
+      "title": "[속보]뉴욕증시, 장기금리·유가 상승에 하락…월마트 9%↓",
+      "link": "https://n.news.naver.com/mnews/article/018/0006355345"
     },
     {
-      "title": "[오후장특징주]머크, 모더나, 에스티 로더, 레이지보이",
-      "link": "https://n.news.naver.com/mnews/article/018/0006354497"
+      "title": "[속보]뉴욕증시 하락 마감…베선트, 바이백 추가 발언에도 금리 ↑",
+      "link": "https://n.news.naver.com/mnews/article/277/0005805511"
     }
   ],
   "youtube": [
@@ -80,16 +80,16 @@
       "name": "삼프로TV",
       "desc": "실시간 국내외 금융 시황 & 라이브 경제 뉴스",
       "logo": "🎙️",
-      "embedUrl": "https://www.youtube.com/embed/yxSBpqS1pSI?autoplay=1&mute=1",
-      "originUrl": "https://www.youtube.com/watch?v=yxSBpqS1pSI"
+      "embedUrl": "https://www.youtube.com/embed/RVgQWLtFf30?autoplay=1&mute=1",
+      "originUrl": "https://www.youtube.com/watch?v=RVgQWLtFf30"
     },
     {
       "id": "syuka",
       "name": "슈카월드",
       "desc": "경제 시사 이슈를 쉽고 재밌게 요약 분석",
       "logo": "🦁",
-      "embedUrl": "https://www.youtube.com/embed/0oMfiGpslU4?autoplay=1&mute=1",
-      "originUrl": "https://www.youtube.com/watch?v=0oMfiGpslU4"
+      "embedUrl": "https://www.youtube.com/embed/dHAaIsSspe4?autoplay=1&mute=1",
+      "originUrl": "https://www.youtube.com/watch?v=dHAaIsSspe4"
     },
     {
       "id": "ytn",
@@ -104,18 +104,18 @@
       "name": "홍춘욱의 쉬운 경제",
       "desc": "이코노미스트의 시장 분석 및 투자 경제학",
       "logo": "📈",
-      "embedUrl": "https://www.youtube.com/embed/ZlR4VoeK0bo?autoplay=1&mute=1",
-      "originUrl": "https://www.youtube.com/watch?v=ZlR4VoeK0bo"
+      "embedUrl": "https://www.youtube.com/embed/XX-tCPsOzA8?autoplay=1&mute=1",
+      "originUrl": "https://www.youtube.com/watch?v=XX-tCPsOzA8"
     }
   ],
-  "summary": "📢 **오늘 아침 브리핑 (2026년 08월 20일)**\n\n간밤 뉴욕 증시는 미국 재무부의 국채 바이백 확대 발표로 국채 금리가 하락하면서 투자 심리가 개선되어 소폭 상승 마감했습니다. 원/달러 환율도 크게 하락하며 원화 강세를 보였습니다. 오늘 우리 증시는 이러한 긍정적인 분위기 속에서 출발할 것으로 예상됩니다! ✨\n\n📈 **주요 증시 현황**\n*   S&P 500: 7707.98 (+16.22 / 🔵 +0.21%)\n*   Nasdaq: 26331.09 (+41.38 / 🔵 +0.16%)\n*   Dow Jones: 53463.05 (+119.65 / 🔵 +0.22%)\n*   KOSPI: 6869.83 (0.0 / ⚪ 0.0%)\n*   KOSDAQ: 834.2 (0.0 / ⚪ 0.0%)\n*   USD/KRW: 1388.39 (-26.34 / 🔵 -1.86%) - *원화 강세*\n\n📰 **주요 이슈 요약**\n1.  **미국 국채 금리 안정화**: 📉 미국 재무부가 국채 바이백 확대를 발표하면서 시장 유동성 우려가 완화되고 장기 국채 금리가 급락했습니다. 이는 주식 시장에 긍정적인 영향을 미쳤습니다.\n2.  **뉴욕 증시 소폭 상승**: ⬆️ 금리 하락에 힘입어 다우존스, S&P 500, 나스닥 등 뉴욕 주요 증시가 일제히 소폭 상승 마감하며 기술주 전반의 투자 심리 개선에 기여했습니다.\n3.  **미 국가 부채 40조 달러 돌파**: ⚠️ 한편, 미국 국가 부채가 사상 처음으로 40조 달러를 돌파했다는 소식은 장기적인 재정 건전성에 대한 우려를 남겼으나, 단기적으로 재무부의 시장 개입 조치에 의해 가려졌습니다.\n4.  **강달러 기조 완화 (원화 강세)**: 💰 달러 대비 원화 환율이 큰 폭으로 하락하며 원화 강세가 나타났습니다. 이는 외국인 투자자들의 국내 증시 유입 가능성을 높이는 요인이 될 수 있습니다.\n\n💡 **국내 시장 영향성**\n미국 국채 금리 하락은 기술 성장주에 대한 투자 심리를 개선하고, 원화 강세는 외국인 투자 자금 유입 기대를 높일 수 있습니다. 오늘 우리 증시에서는 반도체, IT 등 기술 섹터를 중심으로 긍정적인 흐름을 기대해 볼 수 있겠습니다. 다만, 미국 국가 부채에 대한 장기적인 우려는 지속될 수 있으니 재정 정책 관련 뉴스 흐름을 함께 지켜보는 것이 중요합니다.\n\n즐겁고 성공적인 하루 되세요! ☀️",
+  "summary": "📢 **2026년 08월 21일 아침 증시 브리핑**\n\n지난 밤 뉴욕 증시는 미국 국채금리 반등과 유가 상승의 이중 압박으로 일제히 하락했습니다. 다만, 반도체주는 상대적으로 선방하며 견조한 흐름을 보였습니다.\n\n📈 **주요 증시 현황**\n- S&P 500: 7641.16 (-0.87%) 🔴\n- Nasdaq: 26067.17 (-1.0%) 🔴\n- Dow Jones: 52759.21 (-1.32%) 🔴\n- KOSPI: 6471.17 (0.0%) ⚪\n- KOSDAQ: 824.46 (0.0%) ⚪\n- USD/KRW: 1393.22 (-1.44%) 🔵 (원화 강세)\n\n📰 **주요 이슈 요약**\n1.  **미 국채금리 및 유가 상승 압력**: 연준의 금리 방어 노력(‘베선트 효과’)에도 불구하고 장기 국채금리가 반등하고 유가까지 상승하며 인플레이션 및 긴축 우려가 다시 고조되었습니다.\n2.  **소비 둔화 조짐**: 월마트의 매출 증가율 둔화는 미국 소비 시장의 활력이 감소하고 있음을 시사하며, 전반적인 경기 둔화 가능성에 대한 경계심을 높였습니다.\n3.  **반도체주의 상대적 강세**: 전반적인 뉴욕 증시의 하락 속에서도 반도체 관련주는 비교적 견조한 흐름을 유지하며 기술주 내에서의 긍정적인 차별화를 보였습니다.\n\n💡 **국내 시장 영향성**\n미국 증시의 전반적인 하락은 오늘 국내 증시에도 투자 심리 위축으로 작용할 수 있습니다. 하지만, 원/달러 환율이 크게 하락(원화 강세)한 점은 외국인 투자자금 유입에 긍정적인 요인이 될 수 있습니다. 특히, 미국 반도체주의 선방 흐름은 국내 반도체 대표 종목들에 긍정적인 영향을 미칠 것으로 예상됩니다.\n\n오늘도 성공적인 투자 되세요! 😊",
   "recommendations": [
     {
       "name": "삼성전자",
       "ticker": "005930",
       "sector": "반도체",
-      "reason": "미국 국채금리 하락으로 인한 기술주 전반의 투자심리 개선 및 외국인 매수세 유입 기대가 높아졌습니다. 달러-원 환율 하락(원화 강세)은 외국인 투자자에게 국내 주식의 매력도를 높이는 요인으로 작용하며, 반도체 업황 회복 기대감과 맞물려 삼성전자에 긍정적인 영향을 미칠 수 있습니다.",
-      "action_plan": "금리 하락 수혜 섹터인 기술주 전반의 상승 흐름을 확인하며, 외국인 순매수 동향을 주요하게 체크하십시오. 시초가 갭상승 시 무리한 추격 매수보다는 분할 매수 관점으로 접근하는 것이 유리할 수 있습니다.",
+      "reason": "전반적인 뉴욕 증시 하락세에도 불구하고, 미국 반도체 관련주들이 상대적으로 견조한 흐름을 보인 점에 주목합니다. 삼성전자는 글로벌 반도체 시장의 대표 주자로서, 미국 시장의 긍정적인 반도체 업황 신호에 직접적인 수혜를 받을 것으로 예상됩니다. 또한, 원/달러 환율 하락(원화 강세)은 외국인 투자자금 유입에 긍정적인 요인으로 작용할 수 있습니다.",
+      "action_plan": "미국 증시 하락 여파로 장 초반 변동성이 커질 수 있습니다. 급락 시 무리한 저가 매수보다는 시장 흐름을 관망하며 분할 매수 관점으로 접근하는 것이 유리합니다. 특히, 외국인 수급 동향을 면밀히 체크하세요.",
       "related_stocks": [
         {
           "name": "SK하이닉스",
