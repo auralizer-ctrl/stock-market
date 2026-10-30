@@ -1,35 +1,35 @@
 {
-  "updated_at": "2026-10-29 10:53:58",
+  "updated_at": "2026-10-30 11:04:00",
   "indices": {
     "S&P 500": {
-      "price": 7743.98,
-      "change": 21.38,
-      "percent": 0.28
+      "price": 7720.39,
+      "change": -23.59,
+      "percent": -0.3
     },
     "Nasdaq": {
-      "price": 26549.85,
-      "change": 72.04,
-      "percent": 0.27
+      "price": 26184.72,
+      "change": -365.12,
+      "percent": -1.38
     },
     "Dow Jones": {
-      "price": 52475.1,
-      "change": 97.53,
-      "percent": 0.19
+      "price": 52342.56,
+      "change": -132.54,
+      "percent": -0.25
     },
     "KOSPI": {
-      "price": 5867.51,
-      "change": -144.93,
-      "percent": -2.41
+      "price": 5641.16,
+      "change": -296.5,
+      "percent": -4.99
     },
     "KOSDAQ": {
-      "price": 744.88,
-      "change": -26.4,
-      "percent": -3.42
+      "price": 725.67,
+      "change": -27.56,
+      "percent": -3.66
     },
     "USD/KRW": {
-      "price": 1331.58,
-      "change": 4.77,
-      "percent": 0.36
+      "price": 1337.28,
+      "change": -3.06,
+      "percent": -0.23
     }
   },
   "news": [],
@@ -39,16 +39,16 @@
       "name": "삼프로TV",
       "desc": "실시간 국내외 금융 시황 & 라이브 경제 뉴스",
       "logo": "🎙️",
-      "embedUrl": "https://www.youtube.com/embed/aMZn8qu4Iig?autoplay=1&mute=1",
-      "originUrl": "https://www.youtube.com/watch?v=aMZn8qu4Iig"
+      "embedUrl": "https://www.youtube.com/embed/besWkNzsM8I?autoplay=1&mute=1",
+      "originUrl": "https://www.youtube.com/watch?v=besWkNzsM8I"
     },
     {
       "id": "syuka",
       "name": "슈카월드",
       "desc": "경제 시사 이슈를 쉽고 재밌게 요약 분석",
       "logo": "🦁",
-      "embedUrl": "https://www.youtube.com/embed/xEKKi3MTz2I?autoplay=1&mute=1",
-      "originUrl": "https://www.youtube.com/watch?v=xEKKi3MTz2I"
+      "embedUrl": "https://www.youtube.com/embed/k6CDRTmyAHo?autoplay=1&mute=1",
+      "originUrl": "https://www.youtube.com/watch?v=k6CDRTmyAHo"
     },
     {
       "id": "ytn",
@@ -63,45 +63,10 @@
       "name": "홍춘욱의 쉬운 경제",
       "desc": "이코노미스트의 시장 분석 및 투자 경제학",
       "logo": "📈",
-      "embedUrl": "https://www.youtube.com/embed/tkpgC4d16y4?autoplay=1&mute=1",
-      "originUrl": "https://www.youtube.com/watch?v=tkpgC4d16y4"
+      "embedUrl": "https://www.youtube.com/embed/HVZrbE1rMlc?autoplay=1&mute=1",
+      "originUrl": "https://www.youtube.com/watch?v=HVZrbE1rMlc"
     }
   ],
-  "summary": "📢 **2026년 10월 29일 목요일 아침 브리핑입니다.** \n\n간밤 뉴욕 증시는 소폭 상승하며 마감했으나, 국내 증시는 전일 급락세를 보였으며, 원/달러 환율은 상승 압력을 받았습니다. 📈 미국 증시의 견조함에도 불구하고, 국내 시장은 외국인 매도세와 원화 약세가 심화될 경우 추가 하락 압력을 받을 수 있습니다. \n\n**📈 주요 증시 현황**\n- S&P 500: 7743.98 (+21.38 / +0.28% 🔵)\n- Nasdaq: 26549.85 (+72.04 / +0.27% 🔵)\n- Dow Jones: 52475.1 (+97.53 / +0.19% 🔵)\n- KOSPI: 5867.51 (-144.93 / -2.41% 🔴)\n- KOSDAQ: 744.88 (-26.4 / -3.42% 🔴)\n- USD/KRW: 1331.58 (+4.77 / +0.36% 🔴)\n\n**📰 주요 이슈 요약**\n간밤 뉴욕 증시는 투자자들의 긍정적인 심리 속에 소폭 상승 마감했습니다. 그러나 국내 증시는 외인의 매도세와 원화 약세 압력이 겹치며 큰 폭의 하락을 기록, 글로벌 증시와의 디커플링 현상이 나타났습니다. 특히 원/달러 환율의 상승은 국내 시장의 불안정성을 가중시키는 요인으로 작용하고 있습니다.\n\n**💡 국내 시장 영향성**\n미국 증시의 견조함에도 불구하고, 국내 시장은 외국인 매도세와 원화 약세가 심화될 경우 추가 하락 압력을 받을 수 있습니다. 투자 심리 위축이 우려되므로, 장 초반 외국인 및 기관 투자자들의 수급 동향과 원/달러 환율의 추가적인 변동성을 주의 깊게 살펴보실 필요가 있습니다. 급락에 따른 저가 매수 기회가 있을 수도 있으나, 전반적인 시장의 방향성을 확인하는 보수적인 접근이 요구됩니다.\n\n오늘 하루도 현명한 투자로 성공적인 하루 되세요! ☀️",
-  "recommendations": [
-    {
-      "name": "삼성전자",
-      "ticker": "005930",
-      "sector": "반도체",
-      "reason": "미국 증시가 견조한 흐름을 유지하며 반도체 등 기술주에 대한 투자 심리가 완전히 꺾이지는 않았습니다. 또한, 원/달러 환율 상승(원화 약세)은 대표적인 수출 기업인 삼성전자의 해외 매출에 긍정적인 영향을 미칠 수 있습니다. 다만, 국내 증시 전반의 하락 압력은 부담 요인으로 작용할 수 있습니다.",
-      "action_plan": "장 초반 외국인 및 기관의 순매수 전환 여부를 확인하는 것이 중요합니다. 국내 증시가 전일 급락했으므로, 성급한 추격 매수보다는 시장 전반의 안정화 신호를 기다리며 분할 매수 관점으로 접근하는 것이 바람직합니다.",
-      "related_stocks": [
-        {
-          "name": "SK하이닉스",
-          "ticker": "000660"
-        },
-        {
-          "name": "한미반도체",
-          "ticker": "042700"
-        }
-      ]
-    },
-    {
-      "name": "현대차",
-      "ticker": "005380",
-      "sector": "자동차",
-      "reason": "삼성전자와 마찬가지로 대표적인 수출 중심 기업으로, 원/달러 환율 상승에 따른 수혜를 기대할 수 있습니다. 글로벌 자동차 시장의 수요 변화와 해외 판매 실적에 주목할 필요가 있으며, 견조한 미국 경제 지표는 해외 판매에 긍정적일 수 있습니다.",
-      "action_plan": "국내 증시의 변동성이 큰 상황에서, 외국인 투자자의 자동차 섹터 동향을 주시해야 합니다. 실적 개선 기대감과 환율 효과가 상쇄될 수 있는 국내 증시 하락 압력을 고려하여, 신중한 매매 전략이 요구됩니다.",
-      "related_stocks": [
-        {
-          "name": "기아",
-          "ticker": "000270"
-        },
-        {
-          "name": "현대모비스",
-          "ticker": "012330"
-        }
-      ]
-    }
-  ]
+  "summary": "Gemini API 요약 중 오류 발생: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash, description: Generate content requests per minute limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.\nPlease retry in 59.032238973s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  description: \"Generate content requests per minute limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.\"\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 59\n}\n]",
+  "recommendations": []
 }
